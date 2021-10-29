@@ -2,7 +2,7 @@ Here is a small list of APIs that will be useful for automating various tasks in
 
 
 <h1>Phone Number Lookup</h1>
-| Numverify | https://numverify.com  | Global Phone Number Validation & Lookup JSON API. Supports 232 countries.  | 250 requests FREE | </br>
+| <b>Numverify</b> | https://numverify.com  | Global Phone Number Validation & Lookup JSON API. Supports 232 countries.  | 250 requests FREE | </br>
 | Twillo |  https://www.twilio.com/docs/lookup/api  |  Provides a way to retrieve additional information about a phone number  |  Free or $0.01 per request (for caller lookup) |</br> 
 | Plivo  | https://www.plivo.com/lookup/ | Determine carrier, number type, format, and country for any phone number worldwide | from $0.04 per request | 
 <h1>Address/ZIP codes lookup</h1>
