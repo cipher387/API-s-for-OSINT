@@ -11,6 +11,11 @@ Here is a small list of APIs that will be useful for automating various tasks in
  | <b>Zipcodebase</b> | https://zipcodebase.com | Lookup postal codes, calculate distances and much more | 5000 requests FREE | v
  | <b>Openweathermap geocoding API</b>  | https://openweathermap.org/api/geocoding-api | get geographical coordinates (lat, lon) by using name of the location (city name or area name) |  60 calls/minute 1,000,000 calls/month FREE | </br>
  | <b>DistanceMatrix</b>  | https://distancematrix.ai/product | Calculate, evaluate and plan your routes | $1.25-$2 per 1000 elements | </br>
+<h1>Email</h1>
+| <b>Mailboxlayer</b>  | https://mailboxlayer.com/ | Simple REST API measuring email deliverability & quality | 100 requests FREE, 5000 requests in month — $14.49 | </br>
+| <b>EmailCrawlr</b>  | https://emailcrawlr.com/ | Get key information about company websites. Find all email addresses associated with a domain. Get social accounts associated with an email. Verify email address deliverability. | 200 requests FREE, 5000 requets — $40 | </br>
+| <b>Voila Norbert</b>  | https://www.voilanorbert.com/api/ | Find anyone’s email address and ensure your emails reach real people | from $49 in month | </br>
+
 <h1>Domain/DNS/IP lookup</h1>
  | <b>BGPView</b> | https://bgpview.docs.apiary.io/# | allowing consumers to view all sort of analytics data about the current state and structure of the internet | FREE | </br>
  | <b>DNSCheck</b> |  https://www.dnscheck.co/api | monitor the status of both individual DNS records and groups of related DNS records | up to 10 DNS records/FREE | 
