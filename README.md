@@ -37,9 +37,13 @@ Here is a small list of APIs that will be useful for automating various tasks in
  | <b>HaveIBeenPwned</b>  | https://haveibeenpwned.com/API/v2  | allows the list of pwned accounts (email addresses and usernames) | FREE | </br>
  | <b>Psdmp.ws</b> | https://psbdmp.ws/api | search in Pastebin  | $9.95 per 10000 requests  | </br>
  | <b>LeakPeek</b>| https://psbdmp.ws/api | searc in leaks databases | $9.99 per 4 weeks unlimited access | 
+ | <b>BreachDirectory</b>| https://breachdirectory.com/api?lang=en | search domain in data breaches databases | FREE | 
+ | <b>LeekLookup</b>| https://leak-lookup.com/api | search domain, email_address, fullname, ip address, phone, password, username in leaks databases | 10 requests FREE | 
 <h1>Crypto</h1>
  | <b>BTC.com</b> | https://btc.com/btc/adapter?type=api-doc | get information about addresses and transanctions | FREE | </br>
  | <b>Blockchair</b>  | https://blockchair.com  | Explore data stored on 17 blockchains (BTC, ETH, Cardano, Ripple etc) | $0.33 - $1 per 1000 calls | 
+ | <b>Bitcointabyse</b>  | https://www.bitcoinabuse.com/api-docs | Lookup bitcoin addresses that have been linked to criminal activity | FREE | 
+ | <b>Bitcoinwhoswho</b>  | https://www.bitcoinwhoswho.com/api  | Scam reports on the Bitcoin Address   |  FREE  | 
 <h1>IOT</h1>
  | <b>Shodan</b>  | https://developer.shodan.io | IP and DNS information about all devices in the internet | from $59/month | </br>
  | <b>Fofa.so</b> | https://fofa.so/static_pages/api_help | IP and DNS information about all devices in the internet  | ??? |
