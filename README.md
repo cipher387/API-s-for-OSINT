@@ -39,6 +39,8 @@ Here is a small list of APIs that will be useful for automating various tasks in
  | <b>LeakPeek</b>| https://psbdmp.ws/api | searc in leaks databases | $9.99 per 4 weeks unlimited access | 
  | <b>BreachDirectory</b>| https://breachdirectory.com/api?lang=en | search domain in data breaches databases | FREE | 
  | <b>LeekLookup</b>| https://leak-lookup.com/api | search domain, email_address, fullname, ip address, phone, password, username in leaks databases | 10 requests FREE | 
+ <h1>Hashes decrypt/encrypt</h1>
+ | <b>MD5 Decrypt</b>| https://md5decrypt.net/en/Api/ | Search for decrypted hashes in the database | 1.99 EURO/day| 
 <h1>Crypto</h1>
  | <b>BTC.com</b> | https://btc.com/btc/adapter?type=api-doc | get information about addresses and transanctions | FREE | </br>
  | <b>Blockchair</b>  | https://blockchair.com  | Explore data stored on 17 blockchains (BTC, ETH, Cardano, Ripple etc) | $0.33 - $1 per 1000 calls | 
