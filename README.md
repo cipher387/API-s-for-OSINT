@@ -36,9 +36,10 @@ Here is a small list of APIs that will be useful for automating various tasks in
 <h1>Pastebin/Leaks</h1>
  | <b>HaveIBeenPwned</b>  | https://haveibeenpwned.com/API/v2  | allows the list of pwned accounts (email addresses and usernames) | FREE | </br>
  | <b>Psdmp.ws</b> | https://psbdmp.ws/api | search in Pastebin  | $9.95 per 10000 requests  | </br>
- | <b>LeakPeek</b>| https://psbdmp.ws/api | searc in leaks databases | $9.99 per 4 weeks unlimited access | 
- | <b>BreachDirectory</b>| https://breachdirectory.com/api?lang=en | search domain in data breaches databases | FREE | 
- | <b>LeekLookup</b>| https://leak-lookup.com/api | search domain, email_address, fullname, ip address, phone, password, username in leaks databases | 10 requests FREE | 
+ | <b>LeakPeek</b>| https://psbdmp.ws/api | searc in leaks databases | $9.99 per 4 weeks unlimited access | </br>
+ | <b>BreachDirectory.com</b>| https://breachdirectory.com/api?lang=en | search domain in data breaches databases | FREE | </br>
+ | <b>LeekLookup</b>| https://leak-lookup.com/api | search domain, email_address, fullname, ip address, phone, password, username in leaks databases | 10 requests FREE | </br>
+ | <b>BreachDirectory.org</b>| https://rapidapi.com/rohan-patra/api/breachdirectory/pricing | search domain, email_address, fullname, ip address, phone, password, username in leaks databases (possible to view password hashes) | 50 requests in month/FREE | </br>
  <h1>Hashes decrypt/encrypt</h1>
  | <b>MD5 Decrypt</b>| https://md5decrypt.net/en/Api/ | Search for decrypted hashes in the database | 1.99 EURO/day| 
 <h1>Crypto</h1>
