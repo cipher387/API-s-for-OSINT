@@ -54,7 +54,15 @@ Here is a small list of APIs that will be useful for automating various tasks in
  | <b>VirusTotal</b> | https://developers.virustotal.com/reference | files and urls analyze |Public API is FREE  | </br>
 <h1>Face Search</h1>
  | <b>Search4facev | https://search4faces.com/api.html  | Search for people in social networks by facial image  | $21 per 1000 requests | 
-
+ 
+ 
+ <h1>Search Engines</h1>
+  |<b>Google Custom Search JSON API</b> | https://developers.google.com/custom-search/v1/overview | Search in Google | 100 requests FREE| 
+  |<b>Serpapi</b> | https://serpapi.com | Google, Baidu, Yandex, Yahoo, DuckDuckGo, Bint and many others search results | $50/5000 searches/month  | 
+  |<b>Bing Web Search API</b> | https://www.microsoft.com/en-us/bing/apis/bing-web-search-api | Search in Bing (+instant answers and location) | 1000 transactions per month FREE | 
+  |<b>WolframAlpha API</b> | https://products.wolframalpha.com/api/pricing/  | Short answers, conversations, calculators and many more | from $25 per 1000 queries | 
+  |<b>DuckDuckgo Instant Answers API</b> | https://duckduckgo.com/api | An API for some of our Instant Answers, not for full search results.  | FREE | 
+ 
 <h1>Darknet</h1>
  |<b>Darksearch.io</b> | https://darksearch.io/apidoc | search by websites in .onion zone | FREE  | 
 <h1>Flights</h1>
