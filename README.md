@@ -57,10 +57,10 @@ Here is a small list of APIs that will be useful for automating various tasks in
  
  
  <h1>Search Engines</h1>
-  |<b>Google Custom Search JSON API</b> | https://developers.google.com/custom-search/v1/overview | Search in Google | 100 requests FREE| 
-  |<b>Serpapi</b> | https://serpapi.com | Google, Baidu, Yandex, Yahoo, DuckDuckGo, Bint and many others search results | $50/5000 searches/month  | 
-  |<b>Bing Web Search API</b> | https://www.microsoft.com/en-us/bing/apis/bing-web-search-api | Search in Bing (+instant answers and location) | 1000 transactions per month FREE | 
-  |<b>WolframAlpha API</b> | https://products.wolframalpha.com/api/pricing/  | Short answers, conversations, calculators and many more | from $25 per 1000 queries | 
+  |<b>Google Custom Search JSON API</b> | https://developers.google.com/custom-search/v1/overview | Search in Google | 100 requests FREE| </br>
+  |<b>Serpapi</b> | https://serpapi.com</b> | Google, Baidu, Yandex, Yahoo, DuckDuckGo, Bint and many others search results | $50/5000 searches/month  | </br>
+  |<b>Bing Web Search API</b> | https://www.microsoft.com/en-us/bing/apis/bing-web-search-api | Search in Bing (+instant answers and location) | 1000 transactions per month FREE | </br> 
+  |<b>WolframAlpha API</b> | https://products.wolframalpha.com/api/pricing/  | Short answers, conversations, calculators and many more | from $25 per 1000 queries | </br>
   |<b>DuckDuckgo Instant Answers API</b> | https://duckduckgo.com/api | An API for some of our Instant Answers, not for full search results.  | FREE | 
  
 <h1>Darknet</h1>
