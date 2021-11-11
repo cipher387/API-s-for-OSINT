@@ -5,13 +5,14 @@ Here is a small list of APIs that will be useful for automating various tasks in
 | <b>Numverify</b> | https://numverify.com  | Global Phone Number Validation & Lookup JSON API. Supports 232 countries.  | 250 requests FREE | </br>
 | <b>Twillo</b> |  https://www.twilio.com/docs/lookup/api  |  Provides a way to retrieve additional information about a phone number  |  Free or $0.01 per request (for caller lookup) |</br> 
 | <b>Plivo</b>  | https://www.plivo.com/lookup/ | Determine carrier, number type, format, and country for any phone number worldwide | from $0.04 per request | 
+| <b>GetContact</b>  |https://github.com/kovinevmv/getcontact | Find info about user by phone number| from $6,89 in months/100 requests| </br>
 <h1>Address/ZIP codes lookup</h1>
  | <b>Google Maps Geocoding API</b> | https://developers.google.com/maps/documentation/geocoding/overview | convert addresses (like "1600 Amphitheatre Parkway, Mountain View, CA") into geographic coordinates  | 0.005 USD per request | </br>
 | <b>Postcoder</b> | https://postcoder.com/address-lookup | Find adress by postcode | £130/5000 requests | </br>
  | <b>Zipcodebase</b> | https://zipcodebase.com | Lookup postal codes, calculate distances and much more | 5000 requests FREE | v
  | <b>Openweathermap geocoding API</b>  | https://openweathermap.org/api/geocoding-api | get geographical coordinates (lat, lon) by using name of the location (city name or area name) |  60 calls/minute 1,000,000 calls/month FREE | </br>
  | <b>DistanceMatrix</b>  | https://distancematrix.ai/product | Calculate, evaluate and plan your routes | $1.25-$2 per 1000 elements | </br>
-  | <b>GetContact</b>  |https://github.com/kovinevmv/getcontact | Find info about user by phone number| from $6,89 in months/100 requests| </br>
+
 
 
 <h1>Domain/DNS/IP lookup</h1>
