@@ -4,7 +4,7 @@ Here is a small list of APIs that will be useful for automating various tasks in
 <h1>Phone Number Lookup</h1>
 | <b>Numverify</b> | https://numverify.com  | Global Phone Number Validation & Lookup JSON API. Supports 232 countries.  | 250 requests FREE | </br>
 | <b>Twillo</b> |  https://www.twilio.com/docs/lookup/api  |  Provides a way to retrieve additional information about a phone number  |  Free or $0.01 per request (for caller lookup) |</br> 
-| <b>Plivo</b>  | https://www.plivo.com/lookup/ | Determine carrier, number type, format, and country for any phone number worldwide | from $0.04 per request | 
+| <b>Plivo</b>  | https://www.plivo.com/lookup/ | Determine carrier, number type, format, and country for any phone number worldwide | from $0.04 per request | </br>
 | <b>GetContact</b>  |https://github.com/kovinevmv/getcontact | Find info about user by phone number| from $6,89 in months/100 requests| </br>
 <h1>Address/ZIP codes lookup</h1>
  | <b>Google Maps Geocoding API</b> | https://developers.google.com/maps/documentation/geocoding/overview | convert addresses (like "1600 Amphitheatre Parkway, Mountain View, CA") into geographic coordinates  | 0.005 USD per request | </br>
