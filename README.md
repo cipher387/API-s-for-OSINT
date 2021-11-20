@@ -27,8 +27,9 @@ Here is a small list of APIs that will be useful for automating various tasks in
 <h1>Wi-fi lookup</h1>
  | <b>Mylnikov API</b> | https://www.mylnikov.org | public API implementation of Wi-Fi Geo-Location database | FREE | </br>
  | <b>Wigle</b> | https://api.wigle.net/ | get location and other information by SSID | FREE  | 
- <h1>Networks</h1>
+ <h1>Network</h1>
   | <b>PeetingDB</b> | https://www.peeringdb.com/apidocs/ | Database of networks,  and the go-to location for interconnection data | FREE | </br>
+  | <b>PacketTotal</b> | https://packettotal.com/api.html | .pcap files analyze| FREE | </br>
 <h1>Finance</h1>
  | <b>Binlist.net</b> | https://binlist.net/ | get information about bank by BIN  | FREE | v
  | <b>FDIC Bank Data API</b> | https://banks.data.fdic.gov/docs/  | institutions, locations and history events | FREE | </br>
