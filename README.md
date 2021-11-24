@@ -58,8 +58,25 @@ Here is a small list of APIs that will be useful for automating various tasks in
 <h1>Malware</h1>
  | <b>VirusTotal</b> | https://developers.virustotal.com/reference | files and urls analyze |Public API is FREE  | </br>
 <h1>Face Search</h1>
- | <b>Search4facev | https://search4faces.com/api.html  | Search for people in social networks by facial image  | $21 per 1000 requests | 
+ | <b>Search4facev</b> | https://search4faces.com/api.html  | Search for people in social networks by facial image  | $21 per 1000 requests | 
  
+ <h1>Social Media and Messengers</h1>
+ 
+ | <b>Twitch</b> | https://dev.twitch.tv/docs/v5/reference | 
+ | <b>Reddit</b> | https://www.reddit.com/dev/api/  | 
+ | <b>YouTube Data API</b> | https://developers.google.com/youtube/v3  | 
+ | <b>Vkontakte</b> | https://vk.com/dev/methods | 
+ | <b>Twitter API</b> | https://developer.twitter.com/en  |  | | 
+ | <b>Linkedin API</b> | https://docs.microsoft.com/en-us/linkedin/ |
+ | <b>All Facebook and Instagram API</b> | https://developers.facebook.com/docs/ | 
+ | <b>Whatsapp Business API</b> |https://www.whatsapp.com/business/api  |
+ | <b>Telegram and Telegram Bot API | https://core.telegram.org |
+ | <b>Weibo API</b> | https://open.weibo.com/wiki/API文档/en  |
+ | <b>XING</b>  | https://dev.xing.com/partners/job_integration/api_docs |
+ | <b>Viber</b>| https://developers.viber.com/docs/api/rest-bot-api/ |
+ | <b>Dicord</b>|https://discord.com/developers/docs|
+ | <b>Odnoklassniki</b>| https://ok.ru/apiok|
+
  
  <h1>Search Engines</h1>
   |<b>Google Custom Search JSON API</b> | https://developers.google.com/custom-search/v1/overview | Search in Google | 100 requests FREE| </br>
