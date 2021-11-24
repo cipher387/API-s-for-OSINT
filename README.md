@@ -62,20 +62,20 @@ Here is a small list of APIs that will be useful for automating various tasks in
  
  <h1>Social Media and Messengers</h1>
  
- | <b>Twitch</b> | https://dev.twitch.tv/docs/v5/reference | 
- | <b>Reddit</b> | https://www.reddit.com/dev/api/  | 
- | <b>YouTube Data API</b> | https://developers.google.com/youtube/v3  | 
- | <b>Vkontakte</b> | https://vk.com/dev/methods | 
- | <b>Twitter API</b> | https://developer.twitter.com/en  |  | | 
- | <b>Linkedin API</b> | https://docs.microsoft.com/en-us/linkedin/ |
- | <b>All Facebook and Instagram API</b> | https://developers.facebook.com/docs/ | 
- | <b>Whatsapp Business API</b> |https://www.whatsapp.com/business/api  |
- | <b>Telegram and Telegram Bot API | https://core.telegram.org |
- | <b>Weibo API</b> | https://open.weibo.com/wiki/API文档/en  |
- | <b>XING</b>  | https://dev.xing.com/partners/job_integration/api_docs |
- | <b>Viber</b>| https://developers.viber.com/docs/api/rest-bot-api/ |
- | <b>Dicord</b>|https://discord.com/developers/docs|
- | <b>Odnoklassniki</b>| https://ok.ru/apiok|
+ | <b>Twitch</b> | https://dev.twitch.tv/docs/v5/reference | </br>
+ | <b>Reddit</b> | https://www.reddit.com/dev/api/  |  </br>
+ | <b>YouTube Data API</b> | https://developers.google.com/youtube/v3  |  </br>
+ | <b>Vkontakte</b> | https://vk.com/dev/methods |  </br>
+ | <b>Twitter API</b> | https://developer.twitter.com/en  |  </br>
+ | <b>Linkedin API</b> | https://docs.microsoft.com/en-us/linkedin/ |  </br>
+ | <b>All Facebook and Instagram API</b> | https://developers.facebook.com/docs/ |  </br>
+ | <b>Whatsapp Business API</b> |https://www.whatsapp.com/business/api  |  </br>
+ | <b>Telegram and Telegram Bot API | https://core.telegram.org |  </br>
+ | <b>Weibo API</b> | https://open.weibo.com/wiki/API文档/en  |  </br>
+ | <b>XING</b>  | https://dev.xing.com/partners/job_integration/api_docs |  </br>
+ | <b>Viber</b>| https://developers.viber.com/docs/api/rest-bot-api/ |  </br>
+ | <b>Dicord</b>|https://discord.com/developers/docs|  </br>
+ | <b>Odnoklassniki</b>| https://ok.ru/apiok|  </br>
 
  
  <h1>Search Engines</h1>
