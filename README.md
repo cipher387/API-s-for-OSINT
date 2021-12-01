@@ -12,6 +12,12 @@ Here is a small list of APIs that will be useful for automating various tasks in
  | <b>Zipcodebase</b> | https://zipcodebase.com | Lookup postal codes, calculate distances and much more | 5000 requests FREE | v
  | <b>Openweathermap geocoding API</b>  | https://openweathermap.org/api/geocoding-api | get geographical coordinates (lat, lon) by using name of the location (city name or area name) |  60 calls/minute 1,000,000 calls/month FREE | </br>
  | <b>DistanceMatrix</b>  | https://distancematrix.ai/product | Calculate, evaluate and plan your routes | $1.25-$2 per 1000 elements | </br>
+ 
+ <h1>People and documents verification</h1>
+ 
+  | <b>Approuve.com</b>  | https://appruve.co | Allows you to verify the identities of individuals, businesses, and connect to financial account data across Africa | Paid | </br>
+  | <b>Onfido.com</b>  | https://onfido.com  | Onfido Document Verification lets your users scan a photo ID from any device, before checking it’s genuine. Combined with Biometric Verification, it’s a seamless way to anchor an account to the real identity of a customer. India| Paid </br>
+  | <b>Superpass.io</b>  |  https://surepass.io/passport-id-verification-api/  | Passport, Photo ID and Driver License Verification in India  | Paid </br>
 
 
 
