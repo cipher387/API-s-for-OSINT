@@ -59,7 +59,6 @@ Here is a small list of APIs that will be useful for automating various tasks in
  | <b>Amdoren</b> | https://www.amdoren.com/currency-api/ | Free currency API with over 150 currencies | FREE | </br>
  | <b>VATComply.com</b> | https://www.vatcomply.com/documentation | Exchange rates, geolocation and VAT number validation | FREE | </br>
  | <b>Alpaca</b> | https://alpaca.markets/docs/api-documentation/api-v2/market-data/alpaca-data-api-v2/ | Realtime and historical market data on all US equities and ETFs | FREE | </br>
- | <b></b> |  |  | FREE | </br>
  |Swiftcodesapi</b>  | https://swiftcodesapi.com | Verifying the validity of a bank SWIFT code or IBAN account number | $39 per month/4000 swift lookups  | 
   <h1>Email</h1>
 | <b>Mailboxlayer</b>  | https://mailboxlayer.com/ | Simple REST API measuring email deliverability & quality | 100 requests FREE, 5000 requests in month — $14.49 | </br>
