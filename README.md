@@ -29,6 +29,7 @@ Here is a small list of APIs that will be useful for automating various tasks in
 
 
 <h1>Domain/DNS/IP lookup</h1>
+| <b>InfoDB API</b> | https://www.ipinfodb.com/api | The API returns the location of an IP address (country, region, city, zipcode, latitude, longitude) and the associated timezone in XML, JSON or plain text format | FREE | </br>
  | <b>Domainsdb.info</b> | https://domainsdb.info | Registered Domain Names Search | FREE | </br>
  | <b>BGPView</b> | https://bgpview.docs.apiary.io/# | allowing consumers to view all sort of analytics data about the current state and structure of the internet | FREE | </br>
  | <b>DNSCheck</b> |  https://www.dnscheck.co/api | monitor the status of both individual DNS records and groups of related DNS records | up to 10 DNS records/FREE | 
