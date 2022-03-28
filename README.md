@@ -45,10 +45,17 @@ Here is a small list of APIs that will be useful for automating various tasks in
 <h2>Whois</h2>
  | <b>Whois freaks</b>| https://whoisfreaks.com/ | well-parsed and structured domain WHOIS data for all domain names, registrars, countries and TLDs since the birth of internet  | $19/5000 requests | </br>
  | <b>WhoisXMLApi</b> | https://whois.whoisxmlapi.com | gathers a variety of domain ownership and registration data points from a comprehensive WHOIS database | 500 requests in month/FREE  | 
+ 
+  | <b>IPtoWhois</b> | https://www.ip2whois.com/developers-api| Get detailed info about a domain | FREE  | 
+ 
 <h2>GEO IP</h2>
  | <b>Ipstack</b> | https://ipstack.com | Detect country, region, city and zip code  | FREE | </br>
  | <b>Ipgeolocation.io</b> |  https://ipgeolocation.io | provides country, city, state, province, local currency, latitude and longitude, company detail, ISP lookup, language, zip code, country calling code, time zone, current time, sunset and sunrise time, moonset and moonrise | 30 000 requests per month/FREE | 
 | <b>IPInfoDB</b> | https://ipinfodb.com/api | Free Geolocation tools and APIs for country, region, city and time zone lookup by IP address | FREE | </br>
+| <b>IP API</b> | https://ip-api.com/ | Free domain/IP geolocation info | FREE | </br>
+
+
+
 
 <h1>Wi-fi lookup</h1>
  | <b>Mylnikov API</b> | https://www.mylnikov.org | public API implementation of Wi-Fi Geo-Location database | FREE | </br>
@@ -64,6 +71,10 @@ Here is a small list of APIs that will be useful for automating various tasks in
  | <b>Alpaca</b> | https://alpaca.markets/docs/api-documentation/api-v2/market-data/alpaca-data-api-v2/ | Realtime and historical market data on all US equities and ETFs | FREE | </br>
  |Swiftcodesapi</b>  | https://swiftcodesapi.com | Verifying the validity of a bank SWIFT code or IBAN account number | $39 per month/4000 swift lookups  | 
   <h1>Email</h1>
+  
+  | <b>EVA</b>  | https://eva.pingutil.com/ |  Measuring email deliverability & quality | FREE | </br>
+  
+  
 | <b>Mailboxlayer</b>  | https://mailboxlayer.com/ | Simple REST API measuring email deliverability & quality | 100 requests FREE, 5000 requests in month — $14.49 | </br>
 | <b>EmailCrawlr</b>  | https://emailcrawlr.com/ | Get key information about company websites. Find all email addresses associated with a domain. Get social accounts associated with an email. Verify email address deliverability. | 200 requests FREE, 5000 requets — $40 | </br>
 | <b>Voila Norbert</b>  | https://www.voilanorbert.com/api/ | Find anyone’s email address and ensure your emails reach real people | from $49 in month | </br>
@@ -138,10 +149,18 @@ Here is a small list of APIs that will be useful for automating various tasks in
  
  <h1>Search Engines</h1>
   |<b>Google Custom Search JSON API</b> | https://developers.google.com/custom-search/v1/overview | Search in Google | 100 requests FREE| </br>
+  |<b>Serpstack</b> | https://serpstack.com/ | Google search results to JSON | FREE | </br>
+  
   |<b>Serpapi</b> | https://serpapi.com</b> | Google, Baidu, Yandex, Yahoo, DuckDuckGo, Bint and many others search results | $50/5000 searches/month  | </br>
   |<b>Bing Web Search API</b> | https://www.microsoft.com/en-us/bing/apis/bing-web-search-api | Search in Bing (+instant answers and location) | 1000 transactions per month FREE | </br> 
   |<b>WolframAlpha API</b> | https://products.wolframalpha.com/api/pricing/  | Short answers, conversations, calculators and many more | from $25 per 1000 queries | </br>
   |<b>DuckDuckgo Instant Answers API</b> | https://duckduckgo.com/api | An API for some of our Instant Answers, not for full search results.  | FREE | 
+  
+  
+ <h1>News analyze</h1>
+ 
+  |<b>MediaStack</b> | https://mediastack.com/ | News articles search results in JSON | 500 requests/month FREE | 
+  
  
 <h1>Darknet</h1>
  |<b>Darksearch.io</b> | https://darksearch.io/apidoc | search by websites in .onion zone | FREE  | 
