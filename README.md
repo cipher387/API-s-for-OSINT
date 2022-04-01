@@ -173,16 +173,16 @@ Here is a small list of APIs that will be useful for automating various tasks in
  
  <h1>TOOLS</h1>
  
- |REQBIN Online REST & SOAP API Testing Tool  | https://reqbin.com |
- |ExtendClass Online REST Client| https://extendsclass.com/rest-client-online.html |   
- |Codebeatify.org Online API Test | https://codebeautify.org/api-test| 
- |SyncWith Google Sheet add-on.  Link more than 1000 APIs with Spreadsheet | https://workspace.google.com/u/0/marketplace/app/syncwith_crypto_binance_coingecko_airbox/449644239211?hl=ru&pann=sheets_addon_widget|  
- |Talend API Tester Google Chrome Extension| https://workspace.google.com/u/0/marketplace/app/syncwith_crypto_binance_coingecko_airbox/449644239211?hl=ru&pann=sheets_addon_widget| | 
- |Reetoo. Rest API Generator | https://retool.com/api-generator/| 
- |Beeceptor. Rest API mocking and intercepting in seconds (no coding). |https://beeceptor.com |  
- |Postman. Platform for creating your own API | https://www.postman.com | 
- |RapidAPI. Market your API for millions of developers |https://rapidapi.com/solution/api-provider/ | 
- |API Marketplace | https://apilayer.com| 
+ |REQBIN Online REST & SOAP API Testing Tool  | https://reqbin.com |</br>
+ |ExtendClass Online REST Client| https://extendsclass.com/rest-client-online.html |  </br>
+ |Codebeatify.org Online API Test | https://codebeautify.org/api-test| </br>
+ |SyncWith Google Sheet add-on.  Link more than 1000 APIs with Spreadsheet | https://workspace.google.com/u/0/marketplace/app/syncwith_crypto_binance_coingecko_airbox/449644239211?hl=ru&pann=sheets_addon_widget|  </br>
+ |Talend API Tester Google Chrome Extension| https://workspace.google.com/u/0/marketplace/app/syncwith_crypto_binance_coingecko_airbox/449644239211?hl=ru&pann=sheets_addon_widget| | </br>
+ |Reetoo. Rest API Generator | https://retool.com/api-generator/| </br>
+ |Beeceptor. Rest API mocking and intercepting in seconds (no coding). |https://beeceptor.com |  </br>
+ |Postman. Platform for creating your own API | https://www.postman.com | </br>
+ |RapidAPI. Market your API for millions of developers |https://rapidapi.com/solution/api-provider/ | </br>
+ |API Marketplace | https://apilayer.com| </br>
  
  
  
