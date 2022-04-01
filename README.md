@@ -182,7 +182,7 @@ Here is a small list of APIs that will be useful for automating various tasks in
  |Beeceptor. Rest API mocking and intercepting in seconds (no coding). |https://beeceptor.com |  </br>
  |Postman. Platform for creating your own API | https://www.postman.com | </br>
  |RapidAPI. Market your API for millions of developers |https://rapidapi.com/solution/api-provider/ | </br>
- |API Marketplace | https://apilayer.com| </br>
+ |Apilayer. API Marketplace | https://apilayer.com| </br>
  
  
  
