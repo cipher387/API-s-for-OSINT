@@ -37,6 +37,8 @@ Here is a small list of APIs that will be useful for automating various tasks in
  | <b>DNSCheck</b> |  https://www.dnscheck.co/api | monitor the status of both individual DNS records and groups of related DNS records | up to 10 DNS records/FREE | 
 | <b>Cloudflare Trace</b> | https://github.com/fawazahmed0/cloudflare-trace-api  | Get IP Address, Timestamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & More | FREE | </br>
  | <b>Host.io</b> | https://host.io/ | Get info about domain  | FREE | </br>
+ | <b>Threat Jammer</b> | https://threatjammer.com | IP addresses risk scoring service from curated threat intelligence data  | FREE | </br>
+ 
 <h2>Scraping</h2>
 | <b>WebScraping.AI</b> | https://webscraping.ai/ | Web Scraping API with built-in proxies and JS rendering | FREE | </br>
 | <b>ZenRows</b> | https://www.zenrows.com/  | Web Scraping API that bypasses anti-bot solutions while offering JS rendering, and rotating proxies	apiKey	Yes	Unknown
