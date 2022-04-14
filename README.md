@@ -211,23 +211,23 @@ Here is a small list of APIs that will be useful for automating various tasks in
  
  | Name             | Link                    | Description | Price |
  |------------------|-------------------------|-------------|-------|
- | The Unofficial <b>TikTok</b> API Wrapper In Python | https://github.com/davidteather/TikTok-Api | FREE </br>
- | Unofficial <b>Google Trends</b> API | https://github.com/suryasev/unofficial-google-trends-api | FREE   </br>
- | Unofficial APi for <b>YouTube Music</b> | https://github.com/sigma67/ytmusicapi | FREE </br>
- | <b>Duolingo</b> unofficial API (can gather info about users) | https://github.com/KartikTalwar/Duolingo| FREE </br>
- | An unofficial object-oriented Python library for accessing the <b>Steam</b> Web API. | https://github.com/smiley/steamapi | FREE  </br>
- | <b>Instagram</b> Private API | https://github.com/ping/instagram_private_api|  </br>
- | JavaScript library for interacting with the <b>Discord</b> API | https://github.com/discordjs/discord.js| FREE </br>
- | Unofficial API for <b>Zhihu</b> |https://github.com/syaning/zhihu-api |FREE  </br>
- | Unofficial API for <b>Quora</b> | https://github.com/csu/quora-api| FREE </br>
- | (Unofficial) Python API for <b>DnsDumbster</b> | https://github.com/PaulSec/API-dnsdumpster.com| FREE  </br>
- | Unofficial API for <b>PornHub</b> in Python | https://github.com/sskender/pornhub-api | FREE  </br>
- | Unofficial Skype API for nodejs via <b>'Skype (HTTP)'</b> protocol. |https://github.com/ShyykoSerhiy/skyweb | FREE </br>
- | <b>Google Search</b> unofficial API for Python with no external dependencies | https://github.com/aviaryan/python-gsearch | FREE  </br>
- | Python wrapper around the <b>Airbnb</b> API (unofficial)  | https://github.com/nderkach/airbnb-python| FREE </br>
- | Unofficial <b>Medium</b> Python Flask API and SDK | https://github.com/enginebai/PyMedium |FREE  </br>
- | Powerful unofficial <b>Facebook api</b> | https://github.com/davidyen1124/Facebot | FREE  </br>
- | Unofficial <b>Linkedin</b> API for Python |https://github.com/tomquirk/linkedin-api | FREE </br>
+ | <b>TikTok</b> | https://github.com/davidteather/TikTok-Api | The Unofficial <b>TikTok</b> API Wrapper In Python | FREE </br>
+ | <b>Google Trends</b> | https://github.com/suryasev/unofficial-google-trends-api |Unofficial <b>Google Trends</b> API |  FREE   </br>
+ | <b>YouTube Music</b> | https://github.com/sigma67/ytmusicapi | Unofficial APi for <b>YouTube Music</b> |FREE </br>
+ | <b>Duolingo</b>| https://github.com/KartikTalwar/Duolingo|<b>Duolingo</b> unofficial API (can gather info about users) | FREE </br>
+ | <b>Steam</b>. | https://github.com/smiley/steamapi | An unofficial object-oriented Python library for accessing the <b>Steam</b> Web API. | FREE  </br>
+ | <b>Instagram</b> | https://github.com/ping/instagram_private_api|  <b>Instagram</b> Private API |  </br>
+ | <b>Discord</b> | https://github.com/discordjs/discord.js| JavaScript library for interacting with the <b>Discord</b> API | FREE </br>
+ | <b>Zhihu</b> |https://github.com/syaning/zhihu-api |FREE Unofficial API for <b>Zhihu</b> | </br>
+ | <b>Quora</b> | https://github.com/csu/quora-api| Unofficial API for <b>Quora</b> | FREE </br>
+ | <b>DnsDumbster</b> | https://github.com/PaulSec/API-dnsdumpster.com| (Unofficial) Python API for <b>DnsDumbster</b> | FREE  </br>
+ | <b>PornHub</b>  | https://github.com/sskender/pornhub-api | Unofficial API for <b>PornHub</b> in Python | FREE  </br>
+ |  <b>Skype</b> |https://github.com/ShyykoSerhiy/skyweb | Unofficial Skype API for nodejs via <b>'Skype (HTTP)'</b> protocol. | FREE </br>
+ | <b>Google Search</b> | https://github.com/aviaryan/python-gsearch | <b>Google Search</b> unofficial API for Python with no external dependencies |  FREE  </br>
+ | <b>Airbnb</b>  | https://github.com/nderkach/airbnb-python| Python wrapper around the <b>Airbnb</b> API (unofficial)  |  FREE </br>
+ | <b>Medium</b> | https://github.com/enginebai/PyMedium | Unofficial <b>Medium</b> Python Flask API and SDK |FREE  </br>
+ | <b>Facebook</b> | https://github.com/davidyen1124/Facebot | Powerful unofficial <b>Facebook</b> API | FREE  </br>
+ | <b>Linkedin</b> |https://github.com/tomquirk/linkedin-api | Unofficial <b>Linkedin</b> API for Python | FREE </br>
  
  <h1>Search Engines</h1>
  
