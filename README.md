@@ -263,6 +263,14 @@ Here is a small list of APIs that will be useful for automating various tasks in
  | <b>AviationAPI</b> | https://docs.aviationapi.com/ | FAA Aeronautical Charts and Publications, Airport Information, and Airport Weather | FREE | </br>
  
  
+  <h1>Webcams</h1>
+ 
+ | Name             | Link                    | Description | Price |
+ |------------------|-------------------------|-------------|-------|
+ | Windy Webcams API | https://api.windy.com/webcams/docs  | Get a list of available webcams for a country, city or geographical coordinates | FREE with limits or 9990 euro without limits |
+ 
+ 
+ 
  
  <h1>TOOLS</h1>
  
