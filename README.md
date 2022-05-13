@@ -1,6 +1,40 @@
 Here is a small list of APIs that will be useful for automating various tasks in OSINT:
 
+<h1>Table of contents</h1>
 
+<a href="#phonenumbers">Phone Number Lookup and Verification</a></br>
+<a href="#address">Address/ZIP codes lookup</a></br>
+<a href="#people">People and documents verification</a></br>
+<a href="#business">Business/Entity search</a></br>
+<a href="#domains">Domain/DNS/IP lookup</a></br>
+<a href="#scraping">Scraping</a></br>
+<a href="#whois">Whois</a></br>
+<a href="#geoip">GEO IP</a></br>
+<a href="#wifi">Wi-fi lookup</a></br>
+<a href="#network">Network</a></br>
+<a href="#finance">Finance</a></br>
+<a href="#email">Email</a></br>
+<a href="#pastebin">Pastebin/Leaks</a></br>
+<a href="#archives">Archives</a></br>
+<a href="#hashes">Hashes decrypt/encrypt</a></br>
+<a href="#crypto">Crypto</a></br>
+<a href="#iot">IOT</a></br>
+<a href="#malware">Malware</a></br>
+<a href="#face">Face Search</a></br>
+<a href="#socialmedia">Social Media and Messengers</a></br>
+<a href="#unofficial">UNOFFICIAL APIs</a></br>
+<a href="#searchengines">Search Engines</a></br>
+<a href="#news">News analyze</a></br>
+<a href="#darknet">Darknet</a></br>
+<a href="#flights">Flights</a></br>
+<a href="#webcams">Webcams</a></br>
+<a href="#testing">API testing tools</a></br>
+<a href="#create">Create your own API</a></br>
+<a href="#distribute">Distribute your own API</a></br>
+
+
+
+<a name="phonenumbers"></a>
 <h1>Phone Number Lookup and Verification</h1>
 
 | Name             | Link                    | Description | Price |
@@ -11,11 +45,12 @@ Here is a small list of APIs that will be useful for automating various tasks in
 | <b>GetContact</b>  |https://github.com/kovinevmv/getcontact | Find info about user by phone number| from $6,89 in months/100 requests|
 | <b>Veriphone</b> | https://veriphone.io/ | Phone number validation & carrier lookup | FREE |
 
-
+<a name="address"></a>
 <h1>Address/ZIP codes lookup</h1>
 
 | Name             | Link                    | Description | Price |
 |------------------|-------------------------|-------------|-------|
+| <b> Global Address </b> | https://rapidapi.com/adminMelissa/api/global-address/ | Easily verify, check or lookup address | FREE | </br>
 | <b>US Street Address</b> | https://smartystreets.com/docs/cloud/us-street-api | Validate and append data for any US postal address | FREE |
 | <b>Google Maps Geocoding API</b> | https://developers.google.com/maps/documentation/geocoding/overview | convert addresses (like "1600 Amphitheatre Parkway, Mountain View, CA") into geographic coordinates  | 0.005 USD per request |
 | <b>Postcoder</b> | https://postcoder.com/address-lookup | Find adress by postcode | £130/5000 requests |
@@ -23,6 +58,7 @@ Here is a small list of APIs that will be useful for automating various tasks in
 | <b>Openweathermap geocoding API</b>  | https://openweathermap.org/api/geocoding-api | get geographical coordinates (lat, lon) by using name of the location (city name or area name) |  60 calls/minute 1,000,000 calls/month | FREE |
 | <b>DistanceMatrix</b>  | https://distancematrix.ai/product | Calculate, evaluate and plan your routes | $1.25-$2 per 1000 elements |
  
+ <a name="people"></a>
  <h1>People and documents verification</h1>
  
  | Name             | Link                    | Description | Price |
@@ -31,14 +67,16 @@ Here is a small list of APIs that will be useful for automating various tasks in
  | <b>Onfido.com</b>  | https://onfido.com  | Onfido Document Verification lets your users scan a photo ID from any device, before checking it’s genuine. Combined with Biometric Verification, it’s a seamless way to anchor an account to the real identity of a customer. India| Paid </br>
  | <b>Superpass.io</b>  |  https://surepass.io/passport-id-verification-api/  | Passport, Photo ID and Driver License Verification in India  | Paid </br>
  
+<a name="business"></a>
 <h1>Business/Entity search</h1>
 
  | Name             | Link                    | Description | Price |
  |------------------|-------------------------|-------------|-------|
  | <b>Open corporates</b> | https://api.opencorporates.com  | Companies information | Paid, price upon request| </br>
  | <b>Linkedin company search API</b> |https://docs.microsoft.com/en-us/linkedin/marketing/integrations/community-management/organizations/company-search?context=linkedin%2Fcompliance%2Fcontext&tabs=http | Find companies using keywords, industry, location, and other criteria | FREE | </br>
+| <b>Mattermark </b> | https://rapidapi.com/raygorodskij/api/Mattermark/ | Get companies and investor information | free 14-day trial, from $49 per month | </br>
 
-
+<a name="domains"></a>
 <h1>Domain/DNS/IP lookup</h1>
 
 | Name             | Link                    | Description | Price |
@@ -51,6 +89,7 @@ Here is a small list of APIs that will be useful for automating various tasks in
 | <b>Cloudflare Trace</b> | https://github.com/fawazahmed0/cloudflare-trace-api  | Get IP Address, Timestamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & More | FREE | </br>
  | <b>Host.io</b> | https://host.io/ | Get info about domain  | FREE | </br>
 
+<a name="scraping"></a>
 <h2>Scraping</h2>
 
 | Name             | Link                    | Description | Price |
@@ -59,6 +98,7 @@ Here is a small list of APIs that will be useful for automating various tasks in
 | <b>ZenRows</b> | https://www.zenrows.com/  | Web Scraping API that bypasses anti-bot solutions while offering JS rendering, and rotating proxies	apiKey	Yes	Unknown
  | FREE | </br>
 
+<a name="whois"></a>
 <h2>Whois</h2>
 
 | Name             | Link                    | Description | Price |
@@ -67,6 +107,7 @@ Here is a small list of APIs that will be useful for automating various tasks in
 | <b>WhoisXMLApi</b> | https://whois.whoisxmlapi.com | gathers a variety of domain ownership and registration data points from a comprehensive WHOIS database | 500 requests in month/FREE  | 
 | <b>IPtoWhois</b> | https://www.ip2whois.com/developers-api| Get detailed info about a domain | FREE  | 
  
+ <a name="geoip"></a>
 <h2>GEO IP</h2>
 
 | Name             | Link                    | Description | Price |
@@ -77,6 +118,7 @@ Here is a small list of APIs that will be useful for automating various tasks in
 | <b>IP API</b> | https://ip-api.com/ | Free domain/IP geolocation info | FREE | </br>
 
 
+<a name="wifi"></a>
 <h1>Wi-fi lookup</h1>
 
 | Name             | Link                    | Description | Price |
@@ -84,6 +126,8 @@ Here is a small list of APIs that will be useful for automating various tasks in
  | <b>Mylnikov API</b> | https://www.mylnikov.org | public API implementation of Wi-Fi Geo-Location database | FREE | </br>
  | <b>Wigle</b> | https://api.wigle.net/ | get location and other information by SSID | FREE  | 
 
+
+<a name="network"></a>
 <h1>Network</h1>
 
 | Name             | Link                    | Description | Price |
@@ -91,6 +135,7 @@ Here is a small list of APIs that will be useful for automating various tasks in
   | <b>PeetingDB</b> | https://www.peeringdb.com/apidocs/ | Database of networks,  and the go-to location for interconnection data | FREE | </br>
   | <b>PacketTotal</b> | https://packettotal.com/api.html | .pcap files analyze| FREE | </br>
 
+<a name="finance"></a>
 <h1>Finance</h1>
 
   | Name             | Link                    | Description | Price |
@@ -102,6 +147,8 @@ Here is a small list of APIs that will be useful for automating various tasks in
  | <b>Alpaca</b> | https://alpaca.markets/docs/api-documentation/api-v2/market-data/alpaca-data-api-v2/ | Realtime and historical market data on all US equities and ETFs | FREE | </br>
  |Swiftcodesapi</b>  | https://swiftcodesapi.com | Verifying the validity of a bank SWIFT code or IBAN account number | $39 per month/4000 swift lookups  | 
 
+
+<a name="email"></a>
 <h1>Email</h1>
 
 | Name             | Link                    | Description | Price |
@@ -112,6 +159,8 @@ Here is a small list of APIs that will be useful for automating various tasks in
 | <b>Voila Norbert</b>  | https://www.voilanorbert.com/api/ | Find anyone’s email address and ensure your emails reach real people | from $49 in month | </br>
 | <b>Kickbox</b> | https://open.kickbox.com/ | Email verification API | FREE | </br>
 
+
+<a name="pastebin"></a>
 <h1>Pastebin/Leaks</h1>
 
 | Name             | Link                    | Description | Price |
@@ -123,6 +172,7 @@ Here is a small list of APIs that will be useful for automating various tasks in
  | <b>LeekLookup</b>| https://leak-lookup.com/api | search domain, email_address, fullname, ip address, phone, password, username in leaks databases | 10 requests FREE | </br>
  | <b>BreachDirectory.org</b>| https://rapidapi.com/rohan-patra/api/breachdirectory/pricing | search domain, email_address, fullname, ip address, phone, password, username in leaks databases (possible to view password hashes) | 50 requests in month/FREE | </br>
 
+<a name="archives"></a>
 <h1>Archives</h1>
 
   | Name             | Link                    | Description | Price |
@@ -130,12 +180,14 @@ Here is a small list of APIs that will be useful for automating various tasks in
   | <b>Wayback Machine API</b> | https://archive.org/help/wayback_api.php | Retrieve information about Wayback capture data | FREE | </br>
   | <b>BotsArchive</b> | https://botsarchive.com/docs.html | JSON formatted details about Telegram Bots available in database | FREE | </br>
 
+<a name="hashes"></a>
 <h1>Hashes decrypt/encrypt</h1>
 
 | Name             | Link                    | Description | Price |
 |------------------|-------------------------|-------------|-------|
 | <b>MD5 Decrypt</b>| https://md5decrypt.net/en/Api/ | Search for decrypted hashes in the database | 1.99 EURO/day| 
 
+<a name="crypto"></a>
 <h1>Crypto</h1>
 
 | Name             | Link                    | Description | Price |
@@ -150,6 +202,7 @@ Here is a small list of APIs that will be useful for automating various tasks in
    | <b>Brave NewCoin</b> | https://bravenewcoin.com/developers | Real-time and historic crypto data from more than 200+ exchanges | FREE | </br>
    | <b>WorldCoinIndex</b> | https://www.worldcoinindex.com/apiservice  | Cryptocurrencies Prices  | FREE | </br>
 
+<a name="iot"></a>
 <h1>IOT</h1>
 
  | Name             | Link                    | Description | Price |
@@ -158,6 +211,7 @@ Here is a small list of APIs that will be useful for automating various tasks in
  | <b>Fofa.so</b> | https://fofa.so/static_pages/api_help | IP and DNS information about all devices in the internet  | ??? |
  | <b>Censys.io</b> | https://censys.io/api | Search engine for Internet connected host and devices | FREE | </br>
 
+<a name="malware"></a>
 <h1>Malware</h1>
 
   | Name             | Link                    | Description | Price |
@@ -169,13 +223,14 @@ Here is a small list of APIs that will be useful for automating various tasks in
  | <b>URLScan.io</b> | https://urlscan.io/about-api/ | Scan and Analyse URLs  | FREE | </br>
  | <b>Web of Thrust</b> | https://support.mywot.com/hc/en-us/sections/360004477734-API-| IP/domain/URL reputation | FREE | </br>
   
-  
+  <a name="face"></a>
 <h1>Face Search</h1>
 
   | Name             | Link                    | Description | Price |
   |------------------|-------------------------|-------------|-------|
   | <b>Search4faces</b> | https://search4faces.com/api.html  | Search for people in social networks by facial image  | $21 per 1000 requests | 
  
+ <a name="socialmedia"></a>
  <h1>Social Media and Messengers</h1>
  
  | Name             | Link                    | Description | Price |
@@ -204,7 +259,7 @@ Here is a small list of APIs that will be useful for automating various tasks in
  | <b>Tumblr</b> | https://www.tumblr.com/docs/en/api/v2 | Read and write Tumblr Data | FREE | </br>
  
  
-  
+  <a name="unofficial"></a>
  <h1>UNOFFICIAL APIs</h1>
  
  <h3>!WARNING Use with caution! Accounts may be blocked permanently for using unofficial APIs.</h3>
@@ -229,6 +284,7 @@ Here is a small list of APIs that will be useful for automating various tasks in
  | <b>Facebook</b> | https://github.com/davidyen1124/Facebot | Powerful unofficial <b>Facebook</b> API | FREE  </br>
  | <b>Linkedin</b> |https://github.com/tomquirk/linkedin-api | Unofficial <b>Linkedin</b> API for Python | FREE </br>
  
+ <a name="searchengines"></a>
  <h1>Search Engines</h1>
  
   | Name             | Link                    | Description | Price |
@@ -240,20 +296,22 @@ Here is a small list of APIs that will be useful for automating various tasks in
   |<b>WolframAlpha API</b> | https://products.wolframalpha.com/api/pricing/  | Short answers, conversations, calculators and many more | from $25 per 1000 queries | </br>
   |<b>DuckDuckgo Instant Answers API</b> | https://duckduckgo.com/api | An API for some of our Instant Answers, not for full search results.  | FREE | 
   
-  
+  <a name="news"></a>
  <h1>News analyze</h1>
  
   | Name             | Link                    | Description | Price |
   |------------------|-------------------------|-------------|-------|
   |<b>MediaStack</b> | https://mediastack.com/ | News articles search results in JSON | 500 requests/month FREE | 
   
- 
+ <a name="darknet"></a>
 <h1>Darknet</h1>
 
  | Name             | Link                    | Description | Price |
  |------------------|-------------------------|-------------|-------|
  |<b>Darksearch.io</b> | https://darksearch.io/apidoc | search by websites in .onion zone | FREE  | 
 
+
+<a name="flights"></a>
 <h1>Flights</h1>
 
   | Name             | Link                    | Description | Price |
@@ -262,7 +320,7 @@ Here is a small list of APIs that will be useful for automating various tasks in
  | <b>OpenSky Network</b> | https://opensky-network.org/apidoc/index.html |Free real-time ADS-B aviation data  | FREE | </br>
  | <b>AviationAPI</b> | https://docs.aviationapi.com/ | FAA Aeronautical Charts and Publications, Airport Information, and Airport Weather | FREE | </br>
  
- 
+ <a name="webcams"></a>
   <h1>Webcams</h1>
  
  | Name             | Link                    | Description | Price |
@@ -271,7 +329,7 @@ Here is a small list of APIs that will be useful for automating various tasks in
  
  
  
- 
+ <a name="testing"></a>
  <h1>API testing tools</h1>
  
  | Name             | Link                    | 
@@ -283,7 +341,7 @@ Here is a small list of APIs that will be useful for automating various tasks in
  |SyncWith Google Sheet add-on.  Link more than 1000 APIs with Spreadsheet | https://workspace.google.com/u/0/marketplace/app/syncwith_crypto_binance_coingecko_airbox/449644239211?hl=ru&pann=sheets_addon_widget|  </br>
  |Talend API Tester Google Chrome Extension| https://workspace.google.com/u/0/marketplace/app/syncwith_crypto_binance_coingecko_airbox/449644239211?hl=ru&pann=sheets_addon_widget| | </br>
 
-
+<a name="create"></a>
   <h1>Create your own API</h1>
   
  | Name             | Link                    | 
@@ -293,6 +351,7 @@ Here is a small list of APIs that will be useful for automating various tasks in
  |Reetoo. Rest API Generator | https://retool.com/api-generator/| </br>
  |Beeceptor. Rest API mocking and intercepting in seconds (no coding). |https://beeceptor.com |  </br>
  
+ <a name="distribute"></a>
   <h1>Distribute your own API</h1>
   
  | Name             | Link                    | 
