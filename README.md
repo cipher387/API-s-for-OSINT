@@ -31,6 +31,7 @@ Here is a small list of APIs that will be useful for automating various tasks in
 <a href="#testing">API testing tools</a></br>
 <a href="#create">Create your own API</a></br>
 <a href="#distribute">Distribute your own API</a></br>
+<a href="#apikeysinfo">API Keys Info</a></br>
 
 
 
@@ -358,6 +359,21 @@ Here is a small list of APIs that will be useful for automating various tasks in
  |------------------|-------------------------|
  |RapidAPI. Market your API for millions of developers |https://rapidapi.com/solution/api-provider/ | </br>
  |Apilayer. API Marketplace | https://apilayer.com| </br>
+ 
+ 
+ 
+ <a name="#apikeysinfo"></a>
+ <h1>API Keys Info</h1>
+
+ 
+  | Name             | Link                    |  Description           |
+ |------------------|-------------------------|-------------------------|
+ | Keyhacks  |  https://github.com/streaak/keyhacks  | Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid.  |
+ |All about APIKey | https://github.com/daffainfo/all-about-apikey | Detailed information about API key / OAuth token for different services (Description, Request, Response, Regex, Example) |
+| API Guessr |  https://api-guesser.netlify.app/ | Enter API Key and and find out which service they belong to  |  
+
+ 
+ 
  
  <hr>
 
