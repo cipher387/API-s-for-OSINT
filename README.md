@@ -7,6 +7,7 @@ Here is a small list of APIs that will be useful for automating various tasks in
 <a href="#people">People and documents verification</a></br>
 <a href="#business">Business/Entity search</a></br>
 <a href="#domains">Domain/DNS/IP lookup</a></br>
+<a href="#mobileapps">Mobile Apps Endpoints</a></br>
 <a href="#scraping">Scraping</a></br>
 <a href="#whois">Whois</a></br>
 <a href="#geoip">GEO IP</a></br>
@@ -90,6 +91,17 @@ Here is a small list of APIs that will be useful for automating various tasks in
 | <b>Cloudflare Trace</b> | https://github.com/fawazahmed0/cloudflare-trace-api  | Get IP Address, Timestamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & More | FREE | </br>
  | <b>Host.io</b> | https://host.io/ | Get info about domain  | FREE | </br>
 
+
+
+<a name="mobileapps"></a>
+<h1>Mobile Apps Endpoints</h1>
+
+
+| Name             | Link                    | Description | Price |
+|------------------|-------------------------|-------------|-------|
+| <b>BeVigil OSINT API</b>  |  https://bevigil.com/osint-api |  provides access to millions of asset footprint data points including domain intel, cloud services, API information, and third party assets extracted from millions of mobile apps being continuously uploaded and scanned by users on bevigil.com | 50 credits free/1000 credits/$50 |  
+ 
+ 
 <a name="scraping"></a>
 <h2>Scraping</h2>
 
