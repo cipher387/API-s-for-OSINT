@@ -235,6 +235,7 @@ Here is a small list of APIs that will be useful for automating various tasks in
  | <b>Phisherman</b> | https://phisherman.gg | IP/domain/URL reputation | FREE | </br>
  | <b>URLScan.io</b> | https://urlscan.io/about-api/ | Scan and Analyse URLs  | FREE | </br>
  | <b>Web of Thrust</b> | https://support.mywot.com/hc/en-us/sections/360004477734-API-| IP/domain/URL reputation | FREE | </br>
+ | <b>Threat Jammer</b> | https://threatjammer.com/docs/introduction-threat-jammer-user-api | IP/domain/URL reputation and detailed threats analytics | ??? | </br>
   
   <a name="face"></a>
 <h1>Face Search</h1>
