@@ -161,6 +161,7 @@
   | VATComply.com      | https://www.vatcomply.com/documentation                                              | Exchange rates, geolocation and VAT number validation              | FREE                             |
   | Alpaca             | https://alpaca.markets/docs/api-documentation/api-v2/market-data/alpaca-data-api-v2/ | Realtime and historical market data on all US equities and ETFs    | FREE                             |
   | Swiftcodesapi      | https://swiftcodesapi.com                                                            | Verifying the validity of a bank SWIFT code or IBAN account number | $39 per month/4000 swift lookups |
+  | IBANAPI      | https://ibanapi.com                                                            | Validate IBAN number and get bank account information from it | Freemium/10$ Starter plan |
 
 
 ## Email
