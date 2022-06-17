@@ -302,6 +302,10 @@
   | WolframAlpha API               | https://products.wolframalpha.com/api/pricing/                | Short answers, conversations, calculators and many more                       | from $25 per 1000 queries        |
   | DuckDuckgo Instant Answers API | https://duckduckgo.com/api                                    | An API for some of our Instant Answers, not for full search results.          | FREE                             |
   
+  | Memex Marginalia |  https://memex.marginalia.nu/projects/edge/api.gmi | An API for new privacy search engine          | FREE                             |
+  
+  
+  
 ## News analyze
  
   | Name       | Link                    | Description                          | Price                   |
