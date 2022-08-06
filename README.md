@@ -333,6 +333,7 @@
   | Aviation Stack  | https://aviationstack.com                     | get information about flights, aircrafts and airlines                              | FREE  |
   | OpenSky Network | https://opensky-network.org/apidoc/index.html | Free real-time ADS-B aviation data                                                 | FREE  |
   | AviationAPI     | https://docs.aviationapi.com/                 | FAA Aeronautical Charts and Publications, Airport Information, and Airport Weather | FREE  |
+  | FachaAPI | https://api.facha.dev | Aircraft details and live positioning API | FREE  |
  
 ## Webcams
  
