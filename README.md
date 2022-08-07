@@ -180,6 +180,7 @@
 | EmailCrawlr   | https://emailcrawlr.com/          | Get key information about company websites. Find all email addresses associated with a domain. Get social accounts associated with an email. Verify email address deliverability. | 200 requests FREE, 5000 requets — $40              |
 | Voila Norbert | https://www.voilanorbert.com/api/ | Find anyone's email address and ensure your emails reach real people                                                                                                              | from $49 in month                                  |
 | Kickbox       | https://open.kickbox.com/         | Email verification API                                                                                                                                                            | FREE                                               |
+| FachaAPI       | https://api.facha.dev/         | Allows checking if an email domain is a temporary email domain                                                                                                                                                            | FREE                                               |
 
 
 ## Pastebin/Leaks
@@ -333,6 +334,7 @@
   | Aviation Stack  | https://aviationstack.com                     | get information about flights, aircrafts and airlines                              | FREE  |
   | OpenSky Network | https://opensky-network.org/apidoc/index.html | Free real-time ADS-B aviation data                                                 | FREE  |
   | AviationAPI     | https://docs.aviationapi.com/                 | FAA Aeronautical Charts and Publications, Airport Information, and Airport Weather | FREE  |
+  | FachaAPI | https://api.facha.dev | Aircraft details and live positioning API | FREE  |
  
 ## Webcams
  
