@@ -192,8 +192,8 @@
 | Name          | Link                              | Description                                                                                                                                                                       | Price                                              |
 | ------------- | --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
 | Genderize.io           | https://genderize.io        | Instantly answers the question of how likely a certain name is to be male or female and shows the popularity of the name.                                                                                                                                         | 1000 names/day free                                              |
-
-
+| Agify.io           | https://agify.io       | Predicts the age of a person given their name                                                                                                                                       | 1000 names/day free                                              |
+| Nataonalize.io           | https://nationalize.io      | Predicts the nationality of a person given their name                                                                                                                                      | 1000 names/day free                                              |
 
 
 
