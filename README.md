@@ -32,6 +32,7 @@
   - [Network](#network)
   - [Finance](#finance)
   - [Email](#email)
+  - [Names/Surnames](#names)
   - [Pastebin/Leaks](#pastebinleaks)
   - [Archives](#archives)
   - [Hashes decrypt/encrypt](#hashes-decryptencrypt)
@@ -181,6 +182,20 @@
 | Voila Norbert | https://www.voilanorbert.com/api/ | Find anyone's email address and ensure your emails reach real people                                                                                                              | from $49 in month                                  |
 | Kickbox       | https://open.kickbox.com/         | Email verification API                                                                                                                                                            | FREE                                               |
 | FachaAPI       | https://api.facha.dev/         | Allows checking if an email domain is a temporary email domain                                                                                                                                                            | FREE                                               |
+
+
+
+## Name/Surname
+
+
+
+| Name          | Link                              | Description                                                                                                                                                                       | Price                                              |
+| ------------- | --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| Genderize.io           | https://genderize.io        | Instantly answers the question of how likely a certain name is to be male or female and shows the popularity of the name.                                                                                                                                         | 1000 names/day free                                              |
+
+
+
+
 
 
 ## Pastebin/Leaks
