@@ -45,6 +45,7 @@
   - [Search Engines](#search-engines)
   - [News analyze](#news-analyze)
   - [Darknet](#darknet)
+  - [Torrents/file sharing](#torrents)
   - [Flights](#flights)
   - [Webcams](#webcams)
   - [API testing tools](#api-testing-tools)
@@ -340,6 +341,16 @@
  | Name          | Link                         | Description                       | Price |
  | ------------- | ---------------------------- | --------------------------------- | ----- |
  | Darksearch.io | https://darksearch.io/apidoc | search by websites in .onion zone | FREE  |
+
+
+
+## Torrents/file sharing
+
+ | Name          | Link                         | Description                       | Price |
+ | ------------- | ---------------------------- | --------------------------------- | ----- |
+ | Jackett | https://github.com/Jackett/Jackett | API for automate searching in different torrent trackers | FREE  |
+
+
 
 
 ## Flights
