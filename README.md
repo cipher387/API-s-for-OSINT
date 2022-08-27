@@ -45,7 +45,7 @@
   - [Search Engines](#search-engines)
   - [News analyze](#news-analyze)
   - [Darknet](#darknet)
-  - [Torrents/file sharing](#torrents/file-sharing)
+  - [Torrents/file sharing](#torrentsfile-sharing)
   - [Flights](#flights)
   - [Webcams](#webcams)
   - [API testing tools](#api-testing-tools)
