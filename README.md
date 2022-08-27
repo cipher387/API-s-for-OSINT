@@ -349,7 +349,11 @@
  | Name          | Link                         | Description                       | Price |
  | ------------- | ---------------------------- | --------------------------------- | ----- |
  | Jackett | https://github.com/Jackett/Jackett | API for automate searching in different torrent trackers | FREE  |
-
+ | Torrents API PY | [https://github.com/Jackett/Jackett](https://github.com/Ryuk-me/Torrent-Api-py) | Unofficial API for 1337x, Piratebay, Nyaasi, Torlock, Torrent Galaxy, Zooqle, Kickass, Bitsearch, MagnetDL,Libgen, YTS, Limetorrent, TorrentFunk, Glodls, Torre | FREE  |
+ | Torrent Search API | [https://github.com/Jackett/Jackett](https://rapidapi.com/theoneappkh/api/torrent-search/) | API for Torrent Search Engine with Extratorrents, Piratebay, and ISOhunt | 500 queries/day FREE |   
+ | Torrent search api | https://github.com/JimmyLaurent/torrent-search-api | Yet another node torrent scraper (supports iptorrents, torrentleech, torrent9, torrentz2, 1337x, thepiratebay, Yggtorrent, TorrentProject, Eztv, Yts, LimeTorrents) | FREE  |
+ | Torrentinim | https://github.com/sergiotapia/torrentinim | Very low memory-footprint, self hosted API-only torrent search engine. Sonarr + Radarr Compatible, native support for Linux, Mac and Windows. | FREE  |
+  
 
 
 
