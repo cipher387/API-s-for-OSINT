@@ -64,7 +64,7 @@
 | Twillo     | https://www.twilio.com/docs/lookup/api  | Provides a way to retrieve additional information about a phone number             | Free or $0.01 per request (for caller lookup) |
 | Plivo      | https://www.plivo.com/lookup/           | Determine carrier, number type, format, and country for any phone number worldwide | from $0.04 per request                        |
 | GetContact | https://github.com/kovinevmv/getcontact | Find info about user by phone number                                               | from $6,89 in months/100 requests             |
-| Veriphone  | https://veriphone.io/                   | Phone number validation & carrier lookup                                           | FREE                                          |
+| Veriphone  | https://veriphone.io/                   | Phone number validation & carrier lookup                                           | 1000 requests/month FREE                                          |
 
 
 ## Address/ZIP codes lookup
