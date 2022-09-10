@@ -133,7 +133,7 @@
 | ------------ | --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
 | Whois freaks | https://whoisfreaks.com/                | well-parsed and structured domain WHOIS data for all domain names, registrars, countries and TLDs since the birth of internet | $19/5000 requests          |
 | WhoisXMLApi  | https://whois.whoisxmlapi.com           | gathers a variety of domain ownership and registration data points from a comprehensive WHOIS database                        | 500 requests in month/FREE |
-| IPtoWhois    | https://www.ip2whois.com/developers-api | Get detailed info about a domain                                                                                              | FREE                       |
+| IPtoWhois    | https://www.ip2whois.com/developers-api | Get detailed info about a domain                                                                                              | 500 requests/month FREE                       |
  
 ## GEO IP
 
