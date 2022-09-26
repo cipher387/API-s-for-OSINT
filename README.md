@@ -262,7 +262,21 @@
 
   | Name         | Link                              | Description                                          | Price                 |
   | ------------ | --------------------------------- | ---------------------------------------------------- | --------------------- |
-  | Search4faces | https://search4faces.com/api.html | Search for people in social networks by facial image | $21 per 1000 requests |
+  | Search4faces | https://search4faces.com/api.html | Detect and locate human faces within an image, and returns high-precision face bounding boxes.Face⁺⁺ also allows you to store metadata of each detected face for future use. | $21 per 1000 requests |
+  
+  
+  
+  ## Face Detection
+
+  | Name         | Link                              | Description                                          | Price                 |
+  | ------------ | --------------------------------- | ---------------------------------------------------- | --------------------- |
+  | Face++ | https://www.faceplusplus.com/face-detection/ | Search for people in social networks by facial image | from 0.03 per call |
+  | BetaFace | https://www.betafaceapi.com/wpa/ | Can scan uploaded image files or image URLs, find faces and analyze them. API also provides verification (faces comparison) and identification (faces search) services, as well able to maintain multiple user-defined recognition databases (namespaces) | 50 image per day FREE/from 0.15 EUR per request|
+ | Face++ | https://www.faceplusplus.com/face-detection/ | Search for people in social networks by facial image | from 0.03 per call |
+  
+  
+  
+  
  
 ## Social Media and Messengers
  
