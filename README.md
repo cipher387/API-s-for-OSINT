@@ -39,7 +39,7 @@
   - [Crypto](#crypto)
   - [IOT](#iot)
   - [Malware](#malware)
-  - [Face Search](#face-search)
+  - [Face Search and detection](#face-search)
   - [Social Media and Messengers](#social-media-and-messengers)
   - [UNOFFICIAL APIs](#unofficial-apis)
   - [Search Engines](#search-engines)
