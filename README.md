@@ -48,6 +48,7 @@
   - [Torrents/file sharing](#torrentsfile-sharing)
   - [Flights](#flights)
   - [Webcams](#webcams)
+  - [Regular expressions](#regex)
   - [API testing tools](#api-testing-tools)
   - [Create your own API](#create-your-own-api)
   - [Distribute your own API](#distribute-your-own-api)
@@ -385,6 +386,12 @@
  | Name              | Link                               | Description                                                                     | Price                                        |
  | ----------------- | ---------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------- |
  | Windy Webcams API | https://api.windy.com/webcams/docs | Get a list of available webcams for a country, city or geographical coordinates | FREE with limits or 9990 euro without limits |
+ 
+ ## Regex
+ 
+ | Name              | Link                               | Description                                                                     | Price                                        |
+ | ----------------- | ---------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------- |
+ | Autoregex | https://autoregex.notion.site/AutoRegex-API-Documentation-97256bad2c114a6db0c5822860214d3a | Convert English phrase to regular expression | from $3.49/month |
  
  
 ## API testing tools
