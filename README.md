@@ -17,7 +17,8 @@
     
  Instruction for total beginners: [OSINT automation: using сustom functions for working with API requests in Google Sheets](https://medium.com/@cyb_detective/osint-automation-using-%D1%81ustom-functions-for-working-with-api-requests-in-google-sheets-3f7130cf5f82) 
     
-    
+
+Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
 
 ## Table of contents
 
