@@ -409,6 +409,20 @@ Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
  | SyncWith Google Sheet add-on.  Link more than 1000 APIs with Spreadsheet | https://workspace.google.com/u/0/marketplace/app/syncwith_crypto_binance_coingecko_airbox/449644239211?hl=ru&pann=sheets_addon_widget |
  | Talend API Tester Google Chrome Extension                                | https://workspace.google.com/u/0/marketplace/app/syncwith_crypto_binance_coingecko_airbox/449644239211?hl=ru&pann=sheets_addon_widget |  |
 
+## Curl converters (tools that help to write code using API queries)
+
+ 
+ | Name                                                                     | Link                                                                                                                                  |
+ | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
+  | Convert curl commands to Python, JavaScript, PHP, R, Go, C#, Ruby, Rust, Elixir, Java, MATLAB, Dart, CFML, Ansible URI or JSON | https://curlconverter.com |
+  | Curl-to-PHP. Instantly convert curl commands to PHP code |https://incarnate.github.io/curl-to-php/ |
+  | Curl to PHP online (Codebeatify) | https://codebeautify.org/curl-to-php-online |
+  | Curl to JavaScript fetch | https://kigiri.github.io/fetch/ |
+  | Curl to JavaScript fetch (Scrapingbee) | https://www.scrapingbee.com/curl-converter/javascript-fetch/ |
+  | Curl to C# converter | https://curl.olsh.me |
+
+
+
 ## Create your own API
   
  | Name                                                                 | Link                              |
