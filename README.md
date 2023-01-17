@@ -220,7 +220,13 @@ Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
 
   | Name                | Link                                     | Description                                                      | Price |
   | ------------------- | ---------------------------------------- | ---------------------------------------------------------------- | ----- |
-  | Wayback Machine API | https://archive.org/help/wayback_api.php | Retrieve information about Wayback capture data                  | FREE  |
+  | Wayback Machine API (Memento API, CDX Server API, Wayback Availability JSON API) | https://archive.org/help/wayback_api.php | Retrieve information about Wayback capture data                  | FREE  |
+   | TROVE (Australian Web Archive) API | https://trove.nla.gov.au/about/create-something/using-api |   Retrieve information about TROVE capture data              | FREE  |
+  | Archive-it API | https://support.archive-it.org/hc/en-us/articles/115001790023-Access-Archive-It-s-Wayback-index-with-the-CDX-C-API |      Retrieve information about archive-it capture data            | FREE  |
+  | UK Web Archive API | https://ukwa-manage.readthedocs.io/en/latest/#api-reference |      Retrieve information about UK Web Archive capture data             | FREE  |
+  | Arquivo.pt API | https://github.com/arquivo/pwa-technologies/wiki/Arquivo.pt-API |   Allows full-text search and access preserved web content and related metadata. It is also possible to search by URL, accessing all versions of preserved web content.
+API returns a JSON object.              | FREE  |
+  | Library Of Congress archive API | https://www.loc.gov/apis/ | Provides structured data about Library of Congress collections          | FREE  |
   | BotsArchive         | https://botsarchive.com/docs.html        | JSON formatted details about Telegram Bots available in database | FREE  |
 
 ## Hashes decrypt/encrypt
