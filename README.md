@@ -249,13 +249,21 @@ API returns a JSON object.              | FREE  |
 | Brave NewCoin      | https://bravenewcoin.com/developers       | Real-time and historic crypto data from more than 200+ exchanges                      | FREE                      |
 | WorldCoinIndex     | https://www.worldcoinindex.com/apiservice | Cryptocurrencies Prices                                                               | FREE                      |
 
-## IOT
+## IOT/IP Search engines
 
  | Name      | Link                                  | Description                                              | Price          |
  | --------- | ------------------------------------- | -------------------------------------------------------- | -------------- |
- | Shodan    | https://developer.shodan.io           | IP and DNS information about all devices in the internet | from $59/month |
- | Fofa.so   | https://fofa.so/static_pages/api_help | IP and DNS information about all devices in the internet | ???            |
- | Censys.io | https://censys.io/api                 | Search engine for Internet connected host and devices    | FREE           |
+ | Shodan    | https://developer.shodan.io           |  Search engine for Internet connected host and devices | from $59/month |
+ | Fofa.so   | https://fofa.so/static_pages/api_help |  Search engine for Internet connected host and devices | ???            |
+ | Censys.io | https://censys.io/api                 | Search engine for Internet connected host and devices    | Partly FREE           |
+ |Hunter.how | https://hunter.how/search-api              |   Search engine for Internet connected host and devices  |  Partly FREE       |
+ |Netlas.io |   https://netlas-api.readthedocs.io/en/latest/            |  Search engine for Internet connected host and devices   |   Partly FREE       |
+ |Fullhunt.io |  https://api-docs.fullhunt.io/#introduction             | Search engine for Internet connected host and devices   |    Partly FREE     |
+
+
+
+
+
 
 ## Malware
 
