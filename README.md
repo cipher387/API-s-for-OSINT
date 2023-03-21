@@ -423,6 +423,8 @@ API returns a JSON object.              | FREE  |
  | Codebeatify.org Online API Test                                          | https://codebeautify.org/api-test                                                                                                     |
  | SyncWith Google Sheet add-on.  Link more than 1000 APIs with Spreadsheet | https://workspace.google.com/u/0/marketplace/app/syncwith_crypto_binance_coingecko_airbox/449644239211?hl=ru&pann=sheets_addon_widget |
  | Talend API Tester Google Chrome Extension                                | https://workspace.google.com/u/0/marketplace/app/syncwith_crypto_binance_coingecko_airbox/449644239211?hl=ru&pann=sheets_addon_widget |  |
+ 
+ | Michael Bazzel APIs search tools |  https://inteltechniques.com/tools/API.html |  |
 
 ## Curl converters (tools that help to write code using API queries)
 
