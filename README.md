@@ -84,7 +84,7 @@ Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
 | Zipcodebase                  | https://zipcodebase.com                                             | Lookup postal codes, calculate distances and much more                                              | 5000 requests FREE                    |
 | Openweathermap geocoding API | https://openweathermap.org/api/geocoding-api                        | get geographical coordinates (lat, lon) by using name of the location (city name or area name)      | 60 calls/minute 1,000,000 calls/month |
 | DistanceMatrix               | https://distancematrix.ai/product                                   | Calculate, evaluate and plan your routes                                                            | $1.25-$2 per 1000 elements            |
-
+| Geotagging API   | https://geotagging.ai/    | Predict geolocations by texts                                                                                                                                                                                                  | Freemium                      | 
 
 ## People and documents verification
  
