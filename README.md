@@ -248,6 +248,10 @@ API returns a JSON object.              | FREE  |
 | BlockFacts         | https://blockfacts.io/                    | Real-time crypto data from multiple exchanges via a single unified API, and much more | FREE                      |
 | Brave NewCoin      | https://bravenewcoin.com/developers       | Real-time and historic crypto data from more than 200+ exchanges                      | FREE                      |
 | WorldCoinIndex     | https://www.worldcoinindex.com/apiservice | Cryptocurrencies Prices                                                               | FREE                      |
+| WalletLabels     | https://www.walletlabels.xyz/docs | Labels for 7,5 million Ethereum wallets                                                             | FREE                      |
+
+
+
 
 ## IOT/IP Search engines
 
