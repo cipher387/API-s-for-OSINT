@@ -18,7 +18,7 @@
  Instruction for total beginners: [OSINT automation: using сustom functions for working with API requests in Google Sheets](https://medium.com/@cyb_detective/osint-automation-using-%D1%81ustom-functions-for-working-with-api-requests-in-google-sheets-3f7130cf5f82) 
     
 
-Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
+Thank you for following me! https://cybdetective.com
 
 ## Table of contents
 
@@ -470,15 +470,16 @@ API returns a JSON object.              | FREE  |
   | All about APIKey | https://github.com/daffainfo/all-about-apikey | Detailed information about API key / OAuth token for different services (Description, Request, Response, Regex, Example)                 |
   | API Guessr       | https://api-guesser.netlify.app/              | Enter API Key and and find out which service they belong to                                                                              |
 
+
+
+Thank you for following me! https://cybdetective.com
+
+
+
 ## Contributing
 Contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
-## Contact 
 
-- Revue : [@cyb_detective](https://www.getrevue.co/profile/cyb_detective)  
-- Github : [@cipher387](https://github.com/cipher387)  
-- Twitter : [@cyb_detective](https://twitter.com/cyb_detective)  
-- Telegram : [@cybdetective](https://t.me/cybdetective)  
 
 ## License
 
