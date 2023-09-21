@@ -318,7 +318,7 @@ API returns a JSON object.              | FREE  |
  | Weibo API                      | https://open.weibo.com/wiki/API文档/en                 |                                                                                                   |       |
  | XING                           | https://dev.xing.com/partners/job_integration/api_docs |                                                                                                   |       |
  | Viber                          | https://developers.viber.com/docs/api/rest-bot-api/    |                                                                                                   |       |
- | Dicord                         | https://discord.com/developers/docs                    |                                                                                                   |       |
+ | Discord                         | https://discord.com/developers/docs                    |                                                                                                   |       |
  | Odnoklassniki                  | https://ok.ru/apiok                                    |                                                                                                   |       |
  | Blogger                        | https://developers.google.com/blogger/                 | The Blogger APIs allows client applications to view and update Blogger content                    | FREE  |
  | Disqus                         | https://disqus.com/api/docs/auth/                      | Communicate with Disqus data                                                                      | FREE  |
