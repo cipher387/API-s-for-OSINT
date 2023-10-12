@@ -472,6 +472,16 @@ API returns a JSON object.              | FREE  |
 
 
 
+## How to learn how to work with REST API?
+
+
+If you don't know how to work with the REST API, I recommend you check out the Netlas API guide I wrote for Netlas.io. 
+
+[Netlas Cookbook](https://github.com/netlas-io/netlas-cookbook)
+
+There it is very brief and accessible to write how to automate requests in different programming languages (focus on Python and Bash) and process the resulting JSON data.
+
+
 Thank you for following me! https://cybdetective.com
 
 
