@@ -23,6 +23,7 @@ Thank you for following me! https://cybdetective.com
 ## Table of contents
 
 - [APIs](#phone-number-lookup-and-verification)
+  - [IOT/IP search engines](#iotip-search-engines)
   - [Phone Number Lookup and Verification](#phone-number-lookup-and-verification)
   - [Address/ZIP codes lookup](#addresszip-codes-lookup)
   - [People and documents verification](#people-and-documents-verification)
@@ -40,8 +41,7 @@ Thank you for following me! https://cybdetective.com
   - [Pastebin/Leaks](#pastebinleaks)
   - [Archives](#archives)
   - [Hashes decrypt/encrypt](#hashes-decryptencrypt)
-  - [Crypto](#crypto)
-  - [IOT](#iotip-search-engines)
+  - [Crypto](#crypto) 
   - [Malware](#malware)
   - [Face Search and detection](#face-search)
   - [Social Media and Messengers](#social-media-and-messengers)
