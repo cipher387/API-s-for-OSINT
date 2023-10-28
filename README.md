@@ -37,7 +37,7 @@ Thank you for following me! https://cybdetective.com
   - [Network](#network)
   - [Finance](#finance)
   - [Email](#email)
-  - [Names/Surnames](#names)
+  - [Names/Surnames](#namessurnames)
   - [Pastebin/Leaks](#pastebinleaks)
   - [Archives](#archives)
   - [Hashes decrypt/encrypt](#hashes-decryptencrypt)
@@ -205,9 +205,7 @@ Thank you for following me! https://cybdetective.com
 
 
 
-## Name/Surname
-
-
+## Names/Surnames
 
 | Name          | Link                              | Description                                                                                                                                                                       | Price                                              |
 | ------------- | --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
