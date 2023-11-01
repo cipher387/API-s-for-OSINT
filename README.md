@@ -37,7 +37,7 @@ Thank you for following me! https://cybdetective.com
   - [Network](#network)
   - [Finance](#finance)
   - [Email](#email)
-  - [Names/Surnames](#names)
+  - [Names/Surnames](#namessurnames)
   - [Pastebin/Leaks](#pastebinleaks)
   - [Archives](#archives)
   - [Hashes decrypt/encrypt](#hashes-decryptencrypt)
@@ -205,9 +205,7 @@ Thank you for following me! https://cybdetective.com
 
 
 
-## Name/Surname
-
-
+## Names/Surnames
 
 | Name          | Link                              | Description                                                                                                                                                                       | Price                                              |
 | ------------- | --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
@@ -225,7 +223,7 @@ Thank you for following me! https://cybdetective.com
 | HaveIBeenPwned      | https://haveibeenpwned.com/API/v3                            | allows the list of pwned accounts (email addresses and usernames)                                                                   | $3.50 per month                               |
 | Psdmp.ws            | https://psbdmp.ws/api                                        | search in Pastebin                                                                                                                  | $9.95 per 10000 requests           |
 | LeakPeek            | https://psbdmp.ws/api                                        | searc in leaks databases                                                                                                            | $9.99 per 4 weeks unlimited access |
-| BreachDirectory.com | https://breachdirectory.com/api?lang=en                      | search domain in data breaches databases                                                                                            | FREE                               |
+| BreachDirectory.com | https://breachdirectory.com/api_documentation                      | search domain in data breaches databases                                                                                            | FREE                               |
 | LeekLookup          | https://leak-lookup.com/api                                  | search domain, email_address, fullname, ip address, phone, password, username in leaks databases                                    | 10 requests FREE                   |
 | BreachDirectory.org | https://rapidapi.com/rohan-patra/api/breachdirectory/pricing | search domain, email_address, fullname, ip address, phone, password, username in leaks databases (possible to view password hashes) | 50 requests in month/FREE          |
 
@@ -237,8 +235,7 @@ Thank you for following me! https://cybdetective.com
    | TROVE (Australian Web Archive) API | https://trove.nla.gov.au/about/create-something/using-api |   Retrieve information about TROVE capture data              | FREE  |
   | Archive-it API | https://support.archive-it.org/hc/en-us/articles/115001790023-Access-Archive-It-s-Wayback-index-with-the-CDX-C-API |      Retrieve information about archive-it capture data            | FREE  |
   | UK Web Archive API | https://ukwa-manage.readthedocs.io/en/latest/#api-reference |      Retrieve information about UK Web Archive capture data             | FREE  |
-  | Arquivo.pt API | https://github.com/arquivo/pwa-technologies/wiki/Arquivo.pt-API |   Allows full-text search and access preserved web content and related metadata. It is also possible to search by URL, accessing all versions of preserved web content.
-API returns a JSON object.              | FREE  |
+  | Arquivo.pt API | https://github.com/arquivo/pwa-technologies/wiki/Arquivo.pt-API |   Allows full-text search and access preserved web content and related metadata. It is also possible to search by URL, accessing all versions of preserved web content. API returns a JSON object.              | FREE  |
   | Library Of Congress archive API | https://www.loc.gov/apis/ | Provides structured data about Library of Congress collections          | FREE  |
   | BotsArchive         | https://botsarchive.com/docs.html        | JSON formatted details about Telegram Bots available in database | FREE  |
 
