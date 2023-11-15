@@ -1,4 +1,4 @@
-<div align="center">
+1<div align="center">
     <img align="center" src="./logo.png" width="180px" >
     <h2 align="center">APIs For OSINT</h2>     
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/cipher387/API-s-for-OSINT">
@@ -358,7 +358,7 @@ Thank you for following me! https://cybdetective.com
   | Bing Web Search API            | https://www.microsoft.com/en-us/bing/apis/bing-web-search-api | Search in Bing (+instant answers and location)                                | 1000 transactions per month FREE |
   | WolframAlpha API               | https://products.wolframalpha.com/api/pricing/                | Short answers, conversations, calculators and many more                       | from $25 per 1000 queries        |
   | DuckDuckgo Instant Answers API | https://duckduckgo.com/api                                    | An API for some of our Instant Answers, not for full search results.          | FREE                             |
-  
+  | Datalead AI                    | https://datalead.ai                                           | People search engine from social media and the web.                           | 50 free monthly requests         |
   | Memex Marginalia |  https://memex.marginalia.nu/projects/edge/api.gmi | An API for new privacy search engine          | FREE                             |
   
   
