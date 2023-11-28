@@ -347,6 +347,8 @@ Thank you for following me! https://cybdetective.com
  | Medium        | https://github.com/enginebai/PyMedium                    | Unofficial Medium Python Flask API and SDK                                    | FREE  |
  | Facebook      | https://github.com/davidyen1124/Facebot                  | Powerful unofficial Facebook API                                              | FREE  |
  | Linkedin      | https://github.com/tomquirk/linkedin-api                 | Unofficial Linkedin API for Python                                            | FREE  |
+ | Y2mate        | https://github.com/Simatwa/y2mate-api                    | Unofficial Y2mate API for Python                                              | FREE  |
+ | Livescore     | https://github.com/Simatwa/livescore-api                 | Unofficial Livescore API for Python                                           | FREE  |
  
 ## Search Engines
  
