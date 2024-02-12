@@ -388,6 +388,19 @@ Thank you for following me! https://cybdetective.com
  | Torrent Search API | [https://github.com/Jackett/Jackett](https://rapidapi.com/theoneappkh/api/torrent-search/) | API for Torrent Search Engine with Extratorrents, Piratebay, and ISOhunt | 500 queries/day FREE |   
  | Torrent search api | https://github.com/JimmyLaurent/torrent-search-api | Yet another node torrent scraper (supports iptorrents, torrentleech, torrent9, torrentz2, 1337x, thepiratebay, Yggtorrent, TorrentProject, Eztv, Yts, LimeTorrents) | FREE  |
  | Torrentinim | https://github.com/sergiotapia/torrentinim | Very low memory-footprint, self hosted API-only torrent search engine. Sonarr + Radarr Compatible, native support for Linux, Mac and Windows. | FREE  |
+
+
+
+## Vulnerabilities
+
+ | Name          | Link                         | Description                       | Price |
+ | ------------- | ---------------------------- | --------------------------------- | ----- |
+ |  National Vulnerability Database CVE Search API |  https://nvd.nist.gov/developers/vulnerabilities  | Get basic information about CVE and CVE history  | free |
+ |   |   |  |
+ |   |   |  |
+ |   |   |  |
+ |   |   |  |
+
   
 
 
