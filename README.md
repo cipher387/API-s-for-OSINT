@@ -50,6 +50,7 @@ Thank you for following me! https://cybdetective.com
   - [News analyze](#news-analyze)
   - [Darknet](#darknet)
   - [Torrents/file sharing](#torrentsfile-sharing)
+  - [Vulnerabilities](#vulnerabilities)
   - [Flights](#flights)
   - [Webcams](#webcams)
   - [Regular expressions](#regex)
