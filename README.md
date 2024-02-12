@@ -395,12 +395,10 @@ Thank you for following me! https://cybdetective.com
 
  | Name          | Link                         | Description                       | Price |
  | ------------- | ---------------------------- | --------------------------------- | ----- |
- |  National Vulnerability Database CVE Search API |  https://nvd.nist.gov/developers/vulnerabilities  | Get basic information about CVE and CVE history  | free |
- |   |   |  |
- |   |   |  |
- |   |   |  |
- |   |   |  |
-
+ | National Vulnerability Database CVE Search API |  https://nvd.nist.gov/developers/vulnerabilities  | Get basic information about CVE and CVE history  | FREE |
+ | OpenCVE API  | https://docs.opencve.io/api/cve/  | Get basic information about CVE  | FREE |
+ | CVEDetails API |  https://www.cvedetails.com/documentation/apis | Get basic information about CVE | partly FREE (?) |
+ | CVESearch API | https://docs.cvesearch.com/  | by request |
   
 
 
