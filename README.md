@@ -400,7 +400,8 @@ Thank you for following me! https://cybdetective.com
  | OpenCVE API  | https://docs.opencve.io/api/cve/  | Get basic information about CVE  | FREE |
  | CVEDetails API |  https://www.cvedetails.com/documentation/apis | Get basic information about CVE | partly FREE (?) |
  | CVESearch API | https://docs.cvesearch.com/  | Get basic information about CVE| by request |
- | KEVin AP | https://kevin.gtfkd.com/ | API for accessing CISA's Known Exploited Vulnerabilities Catalog (KEV) and CVE Data | FREE |
+ | KEVin API | https://kevin.gtfkd.com/ | API for accessing CISA's Known Exploited Vulnerabilities Catalog (KEV) and CVE Data | FREE |
+ | Vulners.com API | https://vulners.com | Get basic information about CVE | FREE for personal use |
 
 
 
