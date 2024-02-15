@@ -44,6 +44,7 @@ Thank you for following me! https://cybdetective.com
   - [Crypto](#crypto) 
   - [Malware](#malware)
   - [Face Search and detection](#face-search)
+  - [AI Geolocation](#ai-geolocation)
   - [Social Media and Messengers](#social-media-and-messengers)
   - [UNOFFICIAL APIs](#unofficial-apis)
   - [Search Engines](#search-engines)
