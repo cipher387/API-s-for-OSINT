@@ -293,7 +293,16 @@ Thank you for following me! https://cybdetective.com
   | Face++ | https://www.faceplusplus.com/face-detection/ | Search for people in social networks by facial image | from 0.03 per call |
   | BetaFace | https://www.betafaceapi.com/wpa/ | Can scan uploaded image files or image URLs, find faces and analyze them. API also provides verification (faces comparison) and identification (faces search) services, as well able to maintain multiple user-defined recognition databases (namespaces) | 50 image per day FREE/from 0.15 EUR per request|
 
-  
+
+
+
+   ## AI Geolocation
+
+  | Name         | Link                              | Description                                          | Price                 |
+  | ------------ | --------------------------------- | ---------------------------------------------------- | --------------------- |
+  | Geospy | https://api.geospy.ai/ | Detecting estimation location of uploaded photo | Access by request |
+  | Picarta | https://picarta.ai/api | Detecting estimation location of uploaded photo | 100 request/day FREE |
+
   
   
   
