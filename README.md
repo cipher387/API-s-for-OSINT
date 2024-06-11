@@ -204,6 +204,7 @@ Thank you for following me! https://cybdetective.com
 | Voila Norbert | https://www.voilanorbert.com/api/ | Find anyone's email address and ensure your emails reach real people                                                                                                              | from $49 in month                                  |
 | Kickbox       | https://open.kickbox.com/         | Email verification API                                                                                                                                                            | FREE                                               |
 | FachaAPI       | https://api.facha.dev/         | Allows checking if an email domain is a temporary email domain                                                                                                                                                            | FREE                                               |
+|  Github Email Harvester | https://rapidapi.com/breachbeach1/api/github-email-harvester/ | Retrieves email addresses for a given GitHub account | 2 requests free, from $5 per month |
 
 
 
