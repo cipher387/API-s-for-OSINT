@@ -344,6 +344,7 @@ Thank you for following me! https://cybdetective.com
  | TikTok        | https://github.com/davidteather/TikTok-Api               | The Unofficial TikTok API Wrapper In Python                                   | FREE  |
  | Google Trends | https://github.com/suryasev/unofficial-google-trends-api | Unofficial Google Trends API                                                  | FREE  |
  | YouTube Music | https://github.com/sigma67/ytmusicapi                    | Unofficial APi for YouTube Music                                              | FREE  |
+ | Google Maps   | https://apify.com/compass/crawler-google-places          | Unofficial Google Places API                                                  | FREE  |
  | Duolingo      | https://github.com/KartikTalwar/Duolingo                 | Duolingo unofficial API (can gather info about users)                         | FREE  |
  | Steam.        | https://github.com/smiley/steamapi                       | An unofficial object-oriented Python library for accessing the Steam Web API. | FREE  |
  | Instagram     | https://github.com/ping/instagram_private_api            | Instagram Private API                                                         | FREE  |
