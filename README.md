@@ -473,6 +473,7 @@ Thank you for following me! https://cybdetective.com
  | Postman. Platform for creating your own API                          | https://www.postman.com           |
  | Reetoo. Rest API Generator                                           | https://retool.com/api-generator/ |
  | Beeceptor. Rest API mocking and intercepting in seconds (no coding). | https://beeceptor.com             |
+ | Apify's web scraping templates (JS, TS, Python)                      | https://apify.com/templates       |
  
 ## Distribute your own API
   
