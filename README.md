@@ -44,6 +44,7 @@ Thank you for following me! https://cybdetective.com
   - [Crypto](#crypto) 
   - [Malware](#malware)
   - [Face Search and detection](#face-search)
+  - [Reverse Image Search](#reverse-image-search)
   - [AI Geolocation](#ai-geolocation)
   - [Social Media and Messengers](#social-media-and-messengers)
   - [UNOFFICIAL APIs](#unofficial-apis)
@@ -293,6 +294,19 @@ Thank you for following me! https://cybdetective.com
   | ------------ | --------------------------------- | ---------------------------------------------------- | --------------------- |
   | Face++ | https://www.faceplusplus.com/face-detection/ | Search for people in social networks by facial image | from 0.03 per call |
   | BetaFace | https://www.betafaceapi.com/wpa/ | Can scan uploaded image files or image URLs, find faces and analyze them. API also provides verification (faces comparison) and identification (faces search) services, as well able to maintain multiple user-defined recognition databases (namespaces) | 50 image per day FREE/from 0.15 EUR per request|
+
+
+
+ ## Reverse Image Search
+
+  | Name         | Link                              | Description                                          | Price                 |
+  | ------------ | --------------------------------- | ---------------------------------------------------- | --------------------- |
+  | Google Reverse images search API | https://github.com/SOME-1HING/google-reverse-image-api/ | This is a simple API built using Node.js and Express.js that allows you to perform Google Reverse Image Search by providing an image URL.  | FREE (UNOFFICIAL) |
+  | TinEyeAPI | https://services.tineye.com/TinEyeAPI | Verify images, Moderate user-generated content, Track images and brands, Check copyright compliance, Deploy fraud detection solutions, Identify stock photos, Confirm the uniqueness of an image | Start from $200/5000 searches |
+  | Bing Images Search API | https://www.microsoft.com/en-us/bing/apis/bing-image-search-api | With Bing Image Search API v7, help users scour the web for images. Results include thumbnails, full image URLs, publishing website info, image metadata, and more. | 1,000 requests free per month FREE |
+  | MRISA | MRISA (Meta Reverse Image Search API) is a RESTful API which takes an image URL, does a reverse Google image search, and returns a JSON array with the search results | https://github.com/vivithemage/mrisa | FREE? (no official) |
+  | PicImageSearch | https://github.com/kitUIN/PicImageSearch | Aggregator for different Reverse Image Search API | FREE? (no official) |
+
 
 
 
