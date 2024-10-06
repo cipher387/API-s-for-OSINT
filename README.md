@@ -72,7 +72,7 @@ Thank you for following me! https://cybdetective.com
  | Name      | Link                                  | Description                                              | Price          |
  | --------- | ------------------------------------- | -------------------------------------------------------- | -------------- |
  | Shodan    | https://developer.shodan.io           |  Search engine for Internet connected host and devices | from $59/month |
- | Netlas.io |   https://netlas-api.readthedocs.io/en/latest/            |  Search engine for Internet connected host and devices. Read more at [Netlas CookBook](https://github.com/netlas-io/netlas-cookbook)   |   Partly FREE       |
+ | Netlas.io |   https://docs.netlas.io/automation/            |  Search engine for Internet connected host and devices. Read more at [Netlas CookBook](https://github.com/netlas-io/netlas-cookbook)   |   Partly FREE       |
  | Fofa.info   | https://en.fofa.info/api |  Search engine for Internet connected host and devices | from $25/month            |
  | Censys.io | https://censys.io/api                 | Search engine for Internet connected host and devices    | Partly FREE           |
  |Hunter.how | https://hunter.how/search-api              |   Search engine for Internet connected host and devices  |  Partly FREE       |
