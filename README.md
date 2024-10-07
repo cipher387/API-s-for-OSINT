@@ -24,6 +24,7 @@ Thank you for following me! https://cybdetective.com
 
 - [APIs](#phone-number-lookup-and-verification)
   - [IOT/IP search engines](#iotip-search-engines)
+  - [Universal OSINT APIs](#universal-osint-apis)
   - [Phone Number Lookup and Verification](#phone-number-lookup-and-verification)
   - [Address/ZIP codes lookup](#addresszip-codes-lookup)
   - [People and documents verification](#people-and-documents-verification)
