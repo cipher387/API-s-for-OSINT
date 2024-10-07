@@ -78,6 +78,17 @@ Thank you for following me! https://cybdetective.com
  |Hunter.how | https://hunter.how/search-api              |   Search engine for Internet connected host and devices  |  Partly FREE       |
  |Fullhunt.io |  https://api-docs.fullhunt.io/#introduction             | Search engine for Internet connected host and devices   |    Partly FREE     |
 
+
+
+## Universal OSINT APIs
+
+| Name      | Link                                  | Description                                              | Price          |
+ | --------- | ------------------------------------- | -------------------------------------------------------- | -------------- |
+ | Social Links    | https://sociallinks.io/products/sl-api   |  Email info lookup, phone info lookup, individual and company profiling, social media tracking, dark web monitoring and more | PAID. Price per request |
+
+
+
+
 ## Phone Number Lookup and Verification
 
 | Name       | Link                                    | Description                                                                        | Price                                         |
@@ -102,6 +113,9 @@ Thank you for following me! https://cybdetective.com
 | DistanceMatrix               | https://distancematrix.ai/product                                   | Calculate, evaluate and plan your routes                                                            | $1.25-$2 per 1000 elements            |
 | Geotagging API   | https://geotagging.ai/    | Predict geolocations by texts                                                                                                                                                                                                  | Freemium                      | 
 
+
+
+
 ## People and documents verification
  
  | Name         | Link                                              | Description                                                                                                                                                                                                                          | Price |
@@ -119,6 +133,9 @@ Thank you for following me! https://cybdetective.com
  | Open corporates             | https://api.opencorporates.com                                                                                                                                       | Companies information                                                 | Paid, price upon request              |
  | Linkedin company search API | https://docs.microsoft.com/en-us/linkedin/marketing/integrations/community-management/organizations/company-search?context=linkedin%2Fcompliance%2Fcontext&tabs=http | Find companies using keywords, industry, location, and other criteria | FREE                                  |
  | Mattermark                  | https://rapidapi.com/raygorodskij/api/Mattermark/                                                                                                                    | Get companies and investor information                                | free 14-day trial, from $49 per month |
+
+
+
 
 ## Domain/DNS/IP lookup
 
