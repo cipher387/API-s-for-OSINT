@@ -419,6 +419,7 @@ Thank you for following me! https://cybdetective.com
  | Name          | Link                         | Description                       | Price |
  | ------------- | ---------------------------- | --------------------------------- | ----- |
  | Darksearch.io | https://darksearch.io/apidoc | search by websites in .onion zone | FREE  |
+ | Onion Lookup | https://onion.ail-project.org/ | onion-lookup is a service for checking the existence of Tor hidden services and retrieving their associated metadata. onion-lookup relies on an private AIL instance to obtain the metadata | FREE  |
 
 
 
