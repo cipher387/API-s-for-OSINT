@@ -527,6 +527,27 @@ Thank you for following me! https://cybdetective.com
 
 
 
+
+
+
+## API directories
+
+#### If you don't find what you need, try searching these directories.
+
+  | Name             | Link                                          | Description                                                                                                                              |
+  | ---------------- | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+  | APIDOG ApiHub | https://apidog.com/apihub/ | |
+  | Rapid APIs collection | https://rapidapi.com/collections |  |
+  | API Ninjas | https://api-ninjas.com/api |  |
+  | APIs Guru | https://apis.guru/  |  |
+  | APIs List | https://apislist.com/ |  |
+  | API Context Directory | https://apicontext.com/api-directory/ |  |
+  | Any API| https://any-api.com/ |  |
+  | Public APIs Github repo | https://github.com/public-apis/public-apis |  |
+
+
+
+
 ## How to learn how to work with REST API?
 
 
