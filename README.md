@@ -247,6 +247,7 @@ Thank you for following me! https://cybdetective.com
 | BreachDirectory.com | https://breachdirectory.com/api_documentation                      | search domain in data breaches databases                                                                                            | FREE                               |
 | LeekLookup          | https://leak-lookup.com/api                                  | search domain, email_address, fullname, ip address, phone, password, username in leaks databases                                    | 10 requests FREE                   |
 | BreachDirectory.org | https://rapidapi.com/rohan-patra/api/breachdirectory/pricing | search domain, email_address, fullname, ip address, phone, password, username in leaks databases (possible to view password hashes) | 50 requests in month/FREE          |
+| Hudson Rock | https://cavalier.hudsonrock.com/docs | Search if a domain, email address, or username was compromised in global Infostealer malware campaigns | FREE |
 
 ## Archives
 
