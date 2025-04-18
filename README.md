@@ -76,8 +76,8 @@ Thank you for following me! https://cybdetective.com
  | Netlas.io |   https://netlas-api.readthedocs.io/en/latest/            |  Search engine for Internet connected host and devices. Read more at [Netlas CookBook](https://github.com/netlas-io/netlas-cookbook)   |   Partly FREE       |
  | Fofa.so   | https://fofa.so/static_pages/api_help |  Search engine for Internet connected host and devices | ???            |
  | Censys.io | https://censys.io/api                 | Search engine for Internet connected host and devices    | Partly FREE           |
- |Hunter.how | https://hunter.how/search-api              |   Search engine for Internet connected host and devices  |  Partly FREE       |
- |Fullhunt.io |  https://api-docs.fullhunt.io/#introduction             | Search engine for Internet connected host and devices   |    Partly FREE     |
+ | Hunter.how | https://hunter.how/search-api              |   Search engine for Internet connected host and devices  |  Partly FREE       |
+ | Fullhunt.io |  https://api-docs.fullhunt.io/#introduction             | Search engine for Internet connected host and devices   |    Partly FREE     |
  | IPQuery.io | https://ipquery.io | API for ip information such as ip risk, geolocation data, and asn details | FREE |
 
 
@@ -398,14 +398,17 @@ Thank you for following me! https://cybdetective.com
   | Name                           | Link                                                          | Description                                                                   | Price                            |
   | ------------------------------ | ------------------------------------------------------------- | ----------------------------------------------------------------------------- | -------------------------------- |
   | Google Custom Search JSON API  | https://developers.google.com/custom-search/v1/overview       | Search in Google                                                              | 100 requests FREE                |
+  | Memex Marginalia API |  https://memex.marginalia.nu/projects/edge/api.gmi |  Open source search engine. No ads, no AI. "Indexing the small, old and weird web"(c) Search blogs, forums, plain text sites and more.      | FREE   |     
   | Serpstack                      | https://serpstack.com/                                        | Google search results to JSON                                                 | FREE                             |
   | Serpapi                        | https://serpapi.com                                           | Google, Baidu, Yandex, Yahoo, DuckDuckGo, Bint and many others search results | $50/5000 searches/month          |
   | Bing Web Search API            | https://www.microsoft.com/en-us/bing/apis/bing-web-search-api | Search in Bing (+instant answers and location)                                | 1000 transactions per month FREE |
   | WolframAlpha API               | https://products.wolframalpha.com/api/pricing/                | Short answers, conversations, calculators and many more                       | from $25 per 1000 queries        |
   | DuckDuckgo Instant Answers API | https://duckduckgo.com/api                                    | An API for some of our Instant Answers, not for full search results.          | FREE                             |
-  
-  | Memex Marginalia |  https://memex.marginalia.nu/projects/edge/api.gmi | An API for new privacy search engine          | FREE                             |
-  
+  | Scraping Bee Google Search API | https://www.scrapingbee.com/features/google/  |         | from $49/mo  |
+  | ZenSerp | https://zenserp.com/  |   Google, Yandex, Bing and YouTube search API      |  50 searches/months free |
+  | ScraperAPI | https://www.scraperapi.com/   |  Google Search API       | from $49/mo   |
+
+
   
   
 ## News analyze
