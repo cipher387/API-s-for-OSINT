@@ -79,6 +79,7 @@ Thank you for following me! https://cybdetective.com
  | Hunter.how | https://hunter.how/search-api              |   Search engine for Internet connected host and devices  |  Partly FREE       |
  | Fullhunt.io |  https://api-docs.fullhunt.io/#introduction             | Search engine for Internet connected host and devices   |    Partly FREE     |
  | IPQuery.io | https://ipquery.io | API for ip information such as ip risk, geolocation data, and asn details | FREE |
+ | IPLocate.io | https://iplocate.io | IP address threat data (proxy/vpn/Tor/relay detection API), hosting provider detection, geolocation lookup API (IP to city, country, region, postal code), IP to company and organization. | FREE |
 
 
 ## Universal OSINT APIs
