@@ -94,13 +94,13 @@ Thank you for following me! https://cybdetective.com
 ## Phone Number Lookup and Verification
 
 | Name       | Link                                    | Description                                                                        | Price                                         |
-| ---------- | --------------------------------------- | ---------------------------------------------------------------------------------- | --------------------------------------------- |
-| Numverify  | https://numverify.com                   | Global Phone Number Validation & Lookup JSON API. Supports 232 countries.          | 250 requests FREE                             |
-| Twillo     | https://www.twilio.com/docs/lookup/api  | Provides a way to retrieve additional information about a phone number             | Free or $0.01 per request (for caller lookup) |
-| Plivo      | https://www.plivo.com/lookup/           | Determine carrier, number type, format, and country for any phone number worldwide | from $0.04 per request                        |
-| GetContact | https://github.com/kovinevmv/getcontact | Find info about user by phone number                                               | from $6,89 in months/100 requests             |
-| Veriphone  | https://veriphone.io/                   | Phone number validation & carrier lookup                                           | 1000 requests/month FREE                                          |
-
+| --------------- | --------------------------------------- | ---------------------------------------------------------------------------------- | --------------------------------------------- |
+| Numverify       | https://numverify.com                   | Global Phone Number Validation & Lookup JSON API. Supports 232 countries.          | 250 requests FREE                             |
+| Twillo          | https://www.twilio.com/docs/lookup/api  | Provides a way to retrieve additional information about a phone number             | Free or $0.01 per request (for caller lookup) |
+| Plivo           | https://www.plivo.com/lookup/           | Determine carrier, number type, format, and country for any phone number worldwide | from $0.04 per request                        |
+| GetContact      | https://github.com/kovinevmv/getcontact | Find info about user by phone number                                               | from $6,89 in months/100 requests             |
+| Veriphone       | https://veriphone.io/                   | Phone number validation & carrier lookup                                           | 1000 requests/month FREE                                          |
+| Predicta Search | https://www.predictasearch.com          | Retrieve linked profiles to a phone number                                         | from 0.30€ per request                        |
 
 ## Address/ZIP codes lookup
 
