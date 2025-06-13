@@ -165,6 +165,7 @@ Thank you for following me! https://cybdetective.com
 
 | Name           | Link                     | Description                                                                                                                     | Price |
 | -------------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| Apify          | https://www.apify.com/   | 2,000+ web scraping APIs for extracting data from popular websites: Google, Instagram, TikTok, Facebook, etc.                   | FREE  |
 | WebScraping.AI | https://webscraping.ai/  | Web Scraping API with built-in proxies and JS rendering                                                                         | FREE  |
 | ZenRows        | https://www.zenrows.com/ | Web Scraping API that bypasses anti-bot solutions while offering JS rendering, and rotating proxies    apiKey    Yes    Unknown | FREE  |
 
