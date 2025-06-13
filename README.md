@@ -175,6 +175,7 @@ Thank you for following me! https://cybdetective.com
 | Whois freaks | https://whoisfreaks.com/                | well-parsed and structured domain WHOIS data for all domain names, registrars, countries and TLDs since the birth of internet | $19/5000 requests          |
 | WhoisXMLApi  | https://whois.whoisxmlapi.com           | gathers a variety of domain ownership and registration data points from a comprehensive WHOIS database                        | 500 requests in month/FREE |
 | IPtoWhois    | https://www.ip2whois.com/developers-api | Get detailed info about a domain                                                                                              | 500 requests/month FREE                       |
+| WhoisJsonApi | https://whoisjsonapi.com/               | Provides WHOIS data for all domain names, registrars, countries, and TLDs, covering the entire internet.                      | 2 millions/requests for $50|
  
 ## GEO IP
 
