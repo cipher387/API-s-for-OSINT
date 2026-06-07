@@ -396,6 +396,7 @@ Thank you for following me! https://cybdetective.com
  | Livescore     | https://github.com/Simatwa/livescore-api                 | Unofficial Livescore API for Python                                           | FREE  |
  
 ## Search Engines
+- This PR adds [Geonode](https://geonode.com) to the Scraping section. The section already lists ScrapingBee; Geonode is an alternative offering rotating residential and datacenter proxies with REST API access, which fits the OSINT automation use cases this list covers.
  
   | Name                           | Link                                                          | Description                                                                   | Price                            |
   | ------------------------------ | ------------------------------------------------------------- | ----------------------------------------------------------------------------- | -------------------------------- |
