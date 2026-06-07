@@ -162,6 +162,7 @@ Thank you for following me! https://cybdetective.com
  
  
 ## Scraping
+- [Geonode](https://geonode.com) — Rotating residential and datacenter proxies with REST API access.
 
 | Name           | Link                     | Description                                                                                                                     | Price |
 | -------------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------- | ----- |
