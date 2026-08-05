@@ -151,6 +151,7 @@ Thank you for following me! https://cybdetective.com
 | DNSCheck         | https://www.dnscheck.co/api                         | monitor the status of both individual DNS records and groups of related DNS records                                                                               | up to 10 DNS records/FREE |
 | Cloudflare Trace | https://github.com/fawazahmed0/cloudflare-trace-api | Get IP Address, Timestamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & More                                                                   | FREE                      |
 | Host.io          | https://host.io/                                    | Get info about domain                                                                                                                                             | FREE                      |
+| DomainIntel      | https://domainintel.onrender.com                   | Real-time domain intelligence: RDAP, DNS-over-HTTPS, Certificate Transparency and bulk lookups                                                                    | FREE / Paid               |
 
 
 
