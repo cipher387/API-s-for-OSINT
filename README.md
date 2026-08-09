@@ -376,7 +376,7 @@ Thank you for following me! https://cybdetective.com
  
  | Name          | Link                                                     | Description                                                                   | Price |
  | ------------- | -------------------------------------------------------- | ----------------------------------------------------------------------------- | ----- |
- | TikTok        | https://github.com/davidteather/TikTok-Api               | The Unofficial TikTok API Wrapper In Python                                   | FREE  |
+ | TikTok        | https://github.com/davidteather/TikTok-Api               | Unoffical API Wrapper In Python for TikTok                                    | FREE  |
  | Google Trends | https://github.com/suryasev/unofficial-google-trends-api | Unofficial Google Trends API                                                  | FREE  |
  | YouTube Music | https://github.com/sigma67/ytmusicapi                    | Unofficial APi for YouTube Music                                              | FREE  |
  | Duolingo      | https://github.com/KartikTalwar/Duolingo                 | Duolingo unofficial API (can gather info about users)                         | FREE  |
