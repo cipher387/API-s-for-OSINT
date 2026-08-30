@@ -136,6 +136,8 @@ Thank you for following me! https://cybdetective.com
  | Open corporates             | https://api.opencorporates.com                                                                                                                                       | Companies information                                                 | Paid, price upon request              |
  | Linkedin company search API | https://docs.microsoft.com/en-us/linkedin/marketing/integrations/community-management/organizations/company-search?context=linkedin%2Fcompliance%2Fcontext&tabs=http | Find companies using keywords, industry, location, and other criteria | FREE                                  |
  | Mattermark                  | https://rapidapi.com/raygorodskij/api/Mattermark/                                                                                                                    | Get companies and investor information                                | free 14-day trial, from $49 per month |
+ | Reestri Georgia Company Registry | https://apify.com/reestri/ge-company-lookup | Georgia (country) NAPR business register lookup by name or ID code, JSON and MCP | PAID, per lookup |
+ | Reestri Armenia Company Registry and BO | https://apify.com/reestri/am-company-lookup | Armenian state register with official beneficial-owner declarations | PAID, per lookup |
 
 
 
