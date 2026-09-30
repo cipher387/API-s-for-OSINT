@@ -151,6 +151,8 @@ Thank you for following me! https://cybdetective.com
 | DNSCheck         | https://www.dnscheck.co/api                         | monitor the status of both individual DNS records and groups of related DNS records                                                                               | up to 10 DNS records/FREE |
 | Cloudflare Trace | https://github.com/fawazahmed0/cloudflare-trace-api | Get IP Address, Timestamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & More                                                                   | FREE                      |
 | Host.io          | https://host.io/                                    | Get info about domain                                                                                                                                             | FREE                      |
+| cl0q | https://cl0q.com | Open search engine for domain research & OSINT — 38.5M domains scanned, 24.8M pages indexed, free API tier (30 req/min, 1,000/day) | FREE |
+
 
 
 
