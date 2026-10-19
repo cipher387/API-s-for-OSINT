@@ -250,6 +250,7 @@ Thank you for following me! https://cybdetective.com
 | BreachDirectory.com | https://breachdirectory.com/api_documentation                      | search domain in data breaches databases                                                                                            | FREE                               |
 | LeekLookup          | https://leak-lookup.com/api                                  | search domain, email_address, fullname, ip address, phone, password, username in leaks databases                                    | 10 requests FREE                   |
 | BreachDirectory.org | https://rapidapi.com/rohan-patra/api/breachdirectory/pricing | search domain, email_address, fullname, ip address, phone, password, username in leaks databases (possible to view password hashes) | 50 requests in month/FREE          |
+| XposedOrNot | https://xposedornot.com/api_doc | check an email against known data breaches, get breach analytics for an address and list the public breach catalog; no API key needed | FREE (rate-limited per IP); paid plans from $9 a month for volume |
 
 ## Archives
 
