@@ -418,6 +418,7 @@ Thank you for following me! https://cybdetective.com
  
   | Name       | Link                    | Description                          | Price                   |
   | ---------- | ----------------------- | ------------------------------------ | ----------------------- |
+  | ICHI — Internet Cyber Health Index | https://ichi.global/api/alerts | Daily aggregated cybersecurity threat alerts from 20+ named public sources (CISA KEV, CVE/NVD, Shodan, abuse.ch, US-CERT and others). Composite daily index + critical alerts JSON/RSS | FREE |
   | MediaStack | https://mediastack.com/ | News articles search results in JSON | 500 requests/month FREE |
   
 ## Darknet
