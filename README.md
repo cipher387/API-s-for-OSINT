@@ -470,6 +470,7 @@ Thank you for following me! https://cybdetective.com
   | OpenSky Network | https://opensky-network.org/apidoc/index.html | Free real-time ADS-B aviation data                                                 | FREE  |
   | AviationAPI     | https://docs.aviationapi.com/                 | FAA Aeronautical Charts and Publications, Airport Information, and Airport Weather | FREE  |
   | FachaAPI | https://api.facha.dev | Aircraft details and live positioning API | FREE  |
+  | Phantom Tide Restricted-Airspace Feed | https://github.com/tg12/phantomtide?tab=readme-ov-file#public-restricted-airspace-feed | Replay-derived restricted-airspace crossing feed for aircraft observed in public airspace data | FREE  |
  
 ## Webcams
  
