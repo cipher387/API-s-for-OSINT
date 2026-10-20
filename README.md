@@ -327,7 +327,8 @@ Thank you for following me! https://cybdetective.com
   | ------------ | --------------------------------- | ---------------------------------------------------- | --------------------- |
   | Search4faces | https://search4faces.com/api.html | Detect and locate human faces within an image, and returns high-precision face bounding boxes. Face⁺⁺ also allows you to store metadata of each detected face for future use. | $21 per 1000 requests |
   
-  
+
+
   
   ## Face Detection
 
@@ -433,7 +434,7 @@ Thank you for following me! https://cybdetective.com
   | Scraping Bee Google Search API | https://www.scrapingbee.com/features/google/  |         | from $49/mo  |
   | ZenSerp | https://zenserp.com/  |   Google, Yandex, Bing and YouTube search API      |  50 searches/months free |
   | ScraperAPI | https://www.scraperapi.com/   |  Google Search API       | from $49/mo   |
-
+  | [SearchApi](https://www.searchapi.io/) | SearchApi - real-time JSON API to access 50+ SERP engines like Google, Bing, Baidu, YouTube, Amazon, and more. | 100 requests FREE |
 
   
   
