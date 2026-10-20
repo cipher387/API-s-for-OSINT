@@ -455,7 +455,7 @@ Thank you for following me! https://cybdetective.com
  | CVESearch API | https://docs.cvesearch.com/  | Get basic information about CVE| by request |
  | KEVin API | https://kevin.gtfkd.com/ | API for accessing CISA's Known Exploited Vulnerabilities Catalog (KEV) and CVE Data | FREE |
  | Vulners.com API | https://vulners.com | Get basic information about CVE | FREE for personal use |
-
+ | ICHI Internet Cyber Health Index | https://ichi.global/api/alerts | HI provides a free, public API returning aggregated cybersecurity threat intelligence — critical threat alerts drawn from 20+ named, source-transparent public feeds (CISA KEV, CVE/NVD, Shodan, Censys, abuse.ch, US-CERT advisories, SANS ISC, and others). | FREE |
 
 
 
