@@ -153,9 +153,11 @@ Thank you for following me! https://cybdetective.com
 | DNSCheck         | https://www.dnscheck.co/api                         | monitor the status of both individual DNS records and groups of related DNS records                                                                               | up to 10 DNS records/FREE |
 | Cloudflare Trace | https://github.com/fawazahmed0/cloudflare-trace-api | Get IP Address, Timestamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & More                                                                   | FREE                      |
 | Host.io          | https://host.io/                                    | Get info about domain                                                                                                                                             | FREE                      |
+| Frostbyte DNS    | https://agent-gateway-kappa.vercel.app              | DNS record lookup and resolution — query A, AAAA, MX, TXT, NS, CNAME and other record types for any domain                                                       | 200 credits FREE          |
 | Kiprio Cert      | https://kiprio.com/v1/cert/                         | Inspect SSL/TLS certificates for any domain — expiry date, issuer, SANs, and full chain details                                                                   | FREE                      |
 | DomainIntel      | https://domainintel.onrender.com                   | Real-time domain intelligence: RDAP, DNS-over-HTTPS, Certificate Transparency and bulk lookups                                                                    | FREE / Paid               |
 | cl0q | https://cl0q.com | Open search engine for domain research & OSINT — 38.5M domains scanned, 24.8M pages indexed, free API tier (30 req/min, 1,000/day) | FREE |
+
 
 
 
@@ -171,9 +173,11 @@ Thank you for following me! https://cybdetective.com
 
 | Name           | Link                     | Description                                                                                                                     | Price |
 | -------------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| Frostbyte Scraper | https://agent-gateway-kappa.vercel.app | Web scraping and content extraction API — returns page HTML, text, metadata, and structured data from any URL                | 200 credits FREE |
 | WebScraping.AI | https://webscraping.ai/  | Web Scraping API with built-in proxies and JS rendering                                                                         | FREE  |
 | ZenRows        | https://www.zenrows.com/ | Web Scraping API that bypasses anti-bot solutions while offering JS rendering, and rotating proxies    apiKey    Yes    Unknown | FREE  |
 | Arch Tools    | https://archtools.dev    | 61 AI tools API including web scraping, text extraction, code analysis, NLP, crypto data. REST + MCP protocol. x402 USDC micropayments | FREE tier (100 credits/mo) |
+
 
 ## Whois
 
@@ -192,6 +196,7 @@ Thank you for following me! https://cybdetective.com
 | Ipgeolocation.io | https://ipgeolocation.io | provides country, city, state, province, local currency, latitude and longitude, company detail, ISP lookup, language, zip code, country calling code, time zone, current time, sunset and sunrise time, moonset and moonrise | 30 000 requests per month/FREE |
 | IPInfoDB         | https://ipinfodb.com/api | Free Geolocation tools and APIs for country, region, city and time zone lookup by IP address                                                                                                                                  | FREE                           |
 | IP API           | https://ip-api.com/      | Free domain/IP geolocation info                                                                                                                                                                                               | FREE                           |
+| Frostbyte API | https://agent-gateway-kappa.vercel.app | IP geolocation with country, city, region, ISP, coordinates, and timezone. Part of a unified API gateway with 40+ OSINT-friendly tools including DNS lookup, web scraping, and screenshots. | 200 credits FREE |
 
 
 ## Wi-fi lookup
