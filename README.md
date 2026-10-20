@@ -86,6 +86,7 @@ Thank you for following me! https://cybdetective.com
 
 | Name      | Link                                  | Description                                              | Price          |
  | --------- | ------------------------------------- | -------------------------------------------------------- | -------------- |
+  | Noimosiny    | https://noimosiny.com/  | Email, phone and username lookup. 250+ modules  | PAID |
  | Social Links    | https://sociallinks.io/products/sl-api   |  Email info lookup, phone info lookup, individual and company profiling, social media tracking, dark web monitoring and more. Code example of using this API for face search in this [repo](https://github.com/SocialLinks-IO/sociallinks-api) | PAID. Price per request |
 
 
@@ -151,6 +152,7 @@ Thank you for following me! https://cybdetective.com
 | Cloudflare Trace | https://github.com/fawazahmed0/cloudflare-trace-api | Get IP Address, Timestamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & More                                                                   | FREE                      |
 | Host.io          | https://host.io/                                    | Get info about domain                                                                                                                                             | FREE                      |
 | Kiprio Cert      | https://kiprio.com/v1/cert/                         | Inspect SSL/TLS certificates for any domain — expiry date, issuer, SANs, and full chain details                                                                   | FREE                      |
+| cl0q | https://cl0q.com | Open search engine for domain research & OSINT — 38.5M domains scanned, 24.8M pages indexed, free API tier (30 req/min, 1,000/day) | FREE |
 
 
 
@@ -213,6 +215,7 @@ Thank you for following me! https://cybdetective.com
   | Alpaca             | https://alpaca.markets/docs/api-documentation/api-v2/market-data/alpaca-data-api-v2/ | Realtime and historical market data on all US equities and ETFs    | FREE                             |
   | Swiftcodesapi      | https://swiftcodesapi.com                                                            | Verifying the validity of a bank SWIFT code or IBAN account number | $39 per month/4000 swift lookups |
   | IBANAPI      | https://ibanapi.com                                                            | Validate IBAN number and get bank account information from it | Freemium/10$ Starter plan |
+  | Eulerpool          | https://eulerpool.com/developers                                                     | Company profiles, executives, insider trades, ownership, market data | Freemium/100k requests per month free |
 
 
 ## Email
@@ -246,12 +249,16 @@ Thank you for following me! https://cybdetective.com
 
 | Name                | Link                                                         | Description                                                                                                                         | Price                              |
 | ------------------- | ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
+| XposedOrNot   | https://xposedornot.com/api_doc | Free Data Breach API | FREE |
 | HaveIBeenPwned      | https://haveibeenpwned.com/API/v3                            | allows the list of pwned accounts (email addresses and usernames)                                                                   | $3.50 per month                               |
 | Psdmp.ws            | https://psbdmp.ws/api                                        | search in Pastebin                                                                                                                  | $9.95 per 10000 requests           |
 | LeakPeek            | https://psbdmp.ws/api                                        | searc in leaks databases                                                                                                            | $9.99 per 4 weeks unlimited access |
 | BreachDirectory.com | https://breachdirectory.com/api_documentation                      | search domain in data breaches databases                                                                                            | FREE                               |
 | LeekLookup          | https://leak-lookup.com/api                                  | search domain, email_address, fullname, ip address, phone, password, username in leaks databases                                    | 10 requests FREE                   |
 | BreachDirectory.org | https://rapidapi.com/rohan-patra/api/breachdirectory/pricing | search domain, email_address, fullname, ip address, phone, password, username in leaks databases (possible to view password hashes) | 50 requests in month/FREE          |
+
+
+
 
 ## Archives
 
@@ -453,7 +460,7 @@ Thank you for following me! https://cybdetective.com
  | CVESearch API | https://docs.cvesearch.com/  | Get basic information about CVE| by request |
  | KEVin API | https://kevin.gtfkd.com/ | API for accessing CISA's Known Exploited Vulnerabilities Catalog (KEV) and CVE Data | FREE |
  | Vulners.com API | https://vulners.com | Get basic information about CVE | FREE for personal use |
-
+ | ICHI Internet Cyber Health Index | https://ichi.global/api/alerts | HI provides a free, public API returning aggregated cybersecurity threat intelligence — critical threat alerts drawn from 20+ named, source-transparent public feeds (CISA KEV, CVE/NVD, Shodan, Censys, abuse.ch, US-CERT advisories, SANS ISC, and others). | FREE |
 
 
 
@@ -466,6 +473,7 @@ Thank you for following me! https://cybdetective.com
   | OpenSky Network | https://opensky-network.org/apidoc/index.html | Free real-time ADS-B aviation data                                                 | FREE  |
   | AviationAPI     | https://docs.aviationapi.com/                 | FAA Aeronautical Charts and Publications, Airport Information, and Airport Weather | FREE  |
   | FachaAPI | https://api.facha.dev | Aircraft details and live positioning API | FREE  |
+  | Phantom Tide Restricted-Airspace Feed | https://github.com/tg12/phantomtide?tab=readme-ov-file#public-restricted-airspace-feed | Replay-derived restricted-airspace crossing feed for aircraft observed in public airspace data | FREE  |
  
 ## Webcams
  
