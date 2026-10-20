@@ -421,6 +421,8 @@ Thank you for following me! https://cybdetective.com
   | Bing Web Search API            | https://www.microsoft.com/en-us/bing/apis/bing-web-search-api | Search in Bing (+instant answers and location)                                | 1000 transactions per month FREE |
   | WolframAlpha API               | https://products.wolframalpha.com/api/pricing/                | Short answers, conversations, calculators and many more                       | from $25 per 1000 queries        |
   | DuckDuckgo Instant Answers API | https://duckduckgo.com/api                                    | An API for some of our Instant Answers, not for full search results.          | FREE                             |
+  | SearchApi                      | https://www.searchapi.io/                                     | Google, Bing, Baidu, and many others search results                           | $40/10000 searches/month         |
+  | Memex Marginalia               | https://memex.marginalia.nu/projects/edge/api.gmi             | An API for new privacy search engine                                          | FREE                             |
   | Scraping Bee Google Search API | https://www.scrapingbee.com/features/google/  |         | from $49/mo  |
   | ZenSerp | https://zenserp.com/  |   Google, Yandex, Bing and YouTube search API      |  50 searches/months free |
   | ScraperAPI | https://www.scraperapi.com/   |  Google Search API       | from $49/mo   |
