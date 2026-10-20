@@ -112,6 +112,7 @@ Thank you for following me! https://cybdetective.com
 | Google Maps Geocoding API    | https://developers.google.com/maps/documentation/geocoding/overview | convert addresses (like "1600 Amphitheatre Parkway, Mountain View, CA") into geographic coordinates | 0.005 USD per request                 |
 | Postcoder                    | https://postcoder.com/address-lookup                                | Find adress by postcode                                                                             | £130/5000 requests                    |
 | Zipcodebase                  | https://zipcodebase.com                                             | Lookup postal codes, calculate distances and much more                                              | 5000 requests FREE                    |
+| PostalCodes                  | https://postalcodes.info/api                                        | Search global postal codes, country exports, and address validation data                            | FREE                                  |
 | Openweathermap geocoding API | https://openweathermap.org/api/geocoding-api                        | get geographical coordinates (lat, lon) by using name of the location (city name or area name)      | 60 calls/minute 1,000,000 calls/month |
 | DistanceMatrix               | https://distancematrix.ai/product                                   | Calculate, evaluate and plan your routes                                                            | $1.25-$2 per 1000 elements            |
 | Geotagging API   | https://geotagging.ai/    | Predict geolocations by texts                                                                                                                                                                                                  | Freemium                      | 
@@ -152,6 +153,7 @@ Thank you for following me! https://cybdetective.com
 | Cloudflare Trace | https://github.com/fawazahmed0/cloudflare-trace-api | Get IP Address, Timestamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & More                                                                   | FREE                      |
 | Host.io          | https://host.io/                                    | Get info about domain                                                                                                                                             | FREE                      |
 | Kiprio Cert      | https://kiprio.com/v1/cert/                         | Inspect SSL/TLS certificates for any domain — expiry date, issuer, SANs, and full chain details                                                                   | FREE                      |
+| DomainIntel      | https://domainintel.onrender.com                   | Real-time domain intelligence: RDAP, DNS-over-HTTPS, Certificate Transparency and bulk lookups                                                                    | FREE / Paid               |
 | cl0q | https://cl0q.com | Open search engine for domain research & OSINT — 38.5M domains scanned, 24.8M pages indexed, free API tier (30 req/min, 1,000/day) | FREE |
 
 
@@ -170,6 +172,7 @@ Thank you for following me! https://cybdetective.com
 | -------------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------- | ----- |
 | WebScraping.AI | https://webscraping.ai/  | Web Scraping API with built-in proxies and JS rendering                                                                         | FREE  |
 | ZenRows        | https://www.zenrows.com/ | Web Scraping API that bypasses anti-bot solutions while offering JS rendering, and rotating proxies    apiKey    Yes    Unknown | FREE  |
+| Arch Tools    | https://archtools.dev    | 61 AI tools API including web scraping, text extraction, code analysis, NLP, crypto data. REST + MCP protocol. x402 USDC micropayments | FREE tier (100 credits/mo) |
 
 ## Whois
 
@@ -388,6 +391,7 @@ Thank you for following me! https://cybdetective.com
  | TikTok        | https://github.com/davidteather/TikTok-Api               | The Unofficial TikTok API Wrapper In Python                                   | FREE  |
  | Google Trends | https://github.com/suryasev/unofficial-google-trends-api | Unofficial Google Trends API                                                  | FREE  |
  | YouTube Music | https://github.com/sigma67/ytmusicapi                    | Unofficial APi for YouTube Music                                              | FREE  |
+ | Google Maps   | https://apify.com/compass/crawler-google-places          | Unofficial Google Places API                                                  | FREE  |
  | Duolingo      | https://github.com/KartikTalwar/Duolingo                 | Duolingo unofficial API (can gather info about users)                         | FREE  |
  | Steam.        | https://github.com/smiley/steamapi                       | An unofficial object-oriented Python library for accessing the Steam Web API. | FREE  |
  | Instagram     | https://github.com/ping/instagram_private_api            | Instagram Private API                                                         | FREE  |
