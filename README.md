@@ -390,7 +390,7 @@ Thank you for following me! https://cybdetective.com
  | Line                           | https://developers.line.biz/                           | Line Login, Share on Line, Social Plugins and more                                                | FREE  |
  | TikTok                         | https://developers.tiktok.com/doc/login-kit-web        | Fetches user info and user's video posts on TikTok platform                                       | FREE  |
  | Tumblr                         | https://www.tumblr.com/docs/en/api/v2                  | Read and write Tumblr Data                                                                        | FREE  |
- 
+ [SocialData API](https://socialdata.tools) | Unofficial Twitter API alternative for scraping tweets (by user, by hashtag, by keyword) and user profiles. | $0.20 per 1000 results |
  
 ## UNOFFICIAL APIs
 > !WARNING Use with caution! Accounts may be blocked permanently for using unofficial APIs.
