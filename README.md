@@ -177,6 +177,7 @@ Thank you for following me! https://cybdetective.com
 | Whois freaks | https://whoisfreaks.com/                | well-parsed and structured domain WHOIS data for all domain names, registrars, countries and TLDs since the birth of internet | $19/5000 requests          |
 | WhoisXMLApi  | https://whois.whoisxmlapi.com           | gathers a variety of domain ownership and registration data points from a comprehensive WHOIS database                        | 500 requests in month/FREE |
 | IPtoWhois    | https://www.ip2whois.com/developers-api | Get detailed info about a domain                                                                                              | 500 requests/month FREE                       |
+| Bulk Domain WHOIS & DNS Lookup (Apify) | https://apify.com/pennydata/bulk-domain-whois-dns-lookup | Bulk RDAP and DNS lookup for up to 1,000 domains per run: availability, registrar, created/expiry dates, nameservers, MX, TXT. Runs on Apify, returns JSON/CSV | $0.002 per domain (paid, pay-per-event; errors not charged) |
  
 ## GEO IP
 
