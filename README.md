@@ -80,12 +80,14 @@ Thank you for following me! https://cybdetective.com
  | Fullhunt.io |  https://api-docs.fullhunt.io/#introduction             | Search engine for Internet connected host and devices   |    Partly FREE     |
  | IPQuery.io | https://ipquery.io | API for ip information such as ip risk, geolocation data, and asn details | FREE |
  | IPLocate.io | https://iplocate.io | IP address threat data (proxy/vpn/Tor/relay detection API), hosting provider detection, geolocation lookup API (IP to city, country, region, postal code), IP to company and organization. | FREE |
+ | Hunt.io | https://hunt.io/products/cyber-threat-enrichment-api | Complete Domain and IP Enrichment  | Free demo |
 
 
 ## Universal OSINT APIs
 
 | Name      | Link                                  | Description                                              | Price          |
  | --------- | ------------------------------------- | -------------------------------------------------------- | -------------- |
+  | Noimosiny    | https://noimosiny.com/  | Email, phone and username lookup. 250+ modules  | PAID |
  | Social Links    | https://sociallinks.io/products/sl-api   |  Email info lookup, phone info lookup, individual and company profiling, social media tracking, dark web monitoring and more. Code example of using this API for face search in this [repo](https://github.com/SocialLinks-IO/sociallinks-api) | PAID. Price per request |
 
 
@@ -111,6 +113,7 @@ Thank you for following me! https://cybdetective.com
 | Google Maps Geocoding API    | https://developers.google.com/maps/documentation/geocoding/overview | convert addresses (like "1600 Amphitheatre Parkway, Mountain View, CA") into geographic coordinates | 0.005 USD per request                 |
 | Postcoder                    | https://postcoder.com/address-lookup                                | Find adress by postcode                                                                             | £130/5000 requests                    |
 | Zipcodebase                  | https://zipcodebase.com                                             | Lookup postal codes, calculate distances and much more                                              | 5000 requests FREE                    |
+| PostalCodes                  | https://postalcodes.info/api                                        | Search global postal codes, country exports, and address validation data                            | FREE                                  |
 | Openweathermap geocoding API | https://openweathermap.org/api/geocoding-api                        | get geographical coordinates (lat, lon) by using name of the location (city name or area name)      | 60 calls/minute 1,000,000 calls/month |
 | DistanceMatrix               | https://distancematrix.ai/product                                   | Calculate, evaluate and plan your routes                                                            | $1.25-$2 per 1000 elements            |
 | Geotagging API   | https://geotagging.ai/    | Predict geolocations by texts                                                                                                                                                                                                  | Freemium                      | 
@@ -150,6 +153,9 @@ Thank you for following me! https://cybdetective.com
 | DNSCheck         | https://www.dnscheck.co/api                         | monitor the status of both individual DNS records and groups of related DNS records                                                                               | up to 10 DNS records/FREE |
 | Cloudflare Trace | https://github.com/fawazahmed0/cloudflare-trace-api | Get IP Address, Timestamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & More                                                                   | FREE                      |
 | Host.io          | https://host.io/                                    | Get info about domain                                                                                                                                             | FREE                      |
+| Kiprio Cert      | https://kiprio.com/v1/cert/                         | Inspect SSL/TLS certificates for any domain — expiry date, issuer, SANs, and full chain details                                                                   | FREE                      |
+| DomainIntel      | https://domainintel.onrender.com                   | Real-time domain intelligence: RDAP, DNS-over-HTTPS, Certificate Transparency and bulk lookups                                                                    | FREE / Paid               |
+| cl0q | https://cl0q.com | Open search engine for domain research & OSINT — 38.5M domains scanned, 24.8M pages indexed, free API tier (30 req/min, 1,000/day) | FREE |
 
 
 
@@ -167,6 +173,7 @@ Thank you for following me! https://cybdetective.com
 | -------------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------- | ----- |
 | WebScraping.AI | https://webscraping.ai/  | Web Scraping API with built-in proxies and JS rendering                                                                         | FREE  |
 | ZenRows        | https://www.zenrows.com/ | Web Scraping API that bypasses anti-bot solutions while offering JS rendering, and rotating proxies    apiKey    Yes    Unknown | FREE  |
+| Arch Tools    | https://archtools.dev    | 61 AI tools API including web scraping, text extraction, code analysis, NLP, crypto data. REST + MCP protocol. x402 USDC micropayments | FREE tier (100 credits/mo) |
 
 ## Whois
 
@@ -212,6 +219,7 @@ Thank you for following me! https://cybdetective.com
   | Alpaca             | https://alpaca.markets/docs/api-documentation/api-v2/market-data/alpaca-data-api-v2/ | Realtime and historical market data on all US equities and ETFs    | FREE                             |
   | Swiftcodesapi      | https://swiftcodesapi.com                                                            | Verifying the validity of a bank SWIFT code or IBAN account number | $39 per month/4000 swift lookups |
   | IBANAPI      | https://ibanapi.com                                                            | Validate IBAN number and get bank account information from it | Freemium/10$ Starter plan |
+  | Eulerpool          | https://eulerpool.com/developers                                                     | Company profiles, executives, insider trades, ownership, market data | Freemium/100k requests per month free |
 
 
 ## Email
@@ -224,6 +232,9 @@ Thank you for following me! https://cybdetective.com
 | Voila Norbert | https://www.voilanorbert.com/api/ | Find anyone's email address and ensure your emails reach real people                                                                                                              | from $49 in month                                  |
 | Kickbox       | https://open.kickbox.com/         | Email verification API                                                                                                                                                            | FREE                                               |
 | FachaAPI       | https://api.facha.dev/         | Allows checking if an email domain is a temporary email domain                                                                                                                                                            | FREE                                               |
+| Kiprio Disposable Email | https://kiprio.com/v1/disposable-email/ | Check if an email domain is disposable or temporary, no auth required                                                                                                             | FREE                                               |
+| Kiprio Email Validate | https://kiprio.com/v1/email-validate/ | Validate email addresses with MX record checks, disposable domain detection, and typo suggestions                                                                                | FREE                                               |
+| OSINT Industries      | https://www.osint.industries/         | A powerful OSINT (Open-Source Intelligence) platform designed for investigators, analysts, and organizations to uncover digital footprints and gather real-time intelligence. It enables users to search emails, phone numbers, and other selectors to reveal online presence, perform background checks, and conduct digital investigations with unmatched accuracy and immediate insights                                                                                                                                                           | Free for non-profits; pricing for others varies                                               |
 
 
 
@@ -242,12 +253,16 @@ Thank you for following me! https://cybdetective.com
 
 | Name                | Link                                                         | Description                                                                                                                         | Price                              |
 | ------------------- | ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
+| XposedOrNot   | https://xposedornot.com/api_doc | Free Data Breach API | FREE |
 | HaveIBeenPwned      | https://haveibeenpwned.com/API/v3                            | allows the list of pwned accounts (email addresses and usernames)                                                                   | $3.50 per month                               |
 | Psdmp.ws            | https://psbdmp.ws/api                                        | search in Pastebin                                                                                                                  | $9.95 per 10000 requests           |
 | LeakPeek            | https://psbdmp.ws/api                                        | searc in leaks databases                                                                                                            | $9.99 per 4 weeks unlimited access |
 | BreachDirectory.com | https://breachdirectory.com/api_documentation                      | search domain in data breaches databases                                                                                            | FREE                               |
 | LeekLookup          | https://leak-lookup.com/api                                  | search domain, email_address, fullname, ip address, phone, password, username in leaks databases                                    | 10 requests FREE                   |
 | BreachDirectory.org | https://rapidapi.com/rohan-patra/api/breachdirectory/pricing | search domain, email_address, fullname, ip address, phone, password, username in leaks databases (possible to view password hashes) | 50 requests in month/FREE          |
+
+
+
 
 ## Archives
 
@@ -377,6 +392,7 @@ Thank you for following me! https://cybdetective.com
  | TikTok        | https://github.com/davidteather/TikTok-Api               | The Unofficial TikTok API Wrapper In Python                                   | FREE  |
  | Google Trends | https://github.com/suryasev/unofficial-google-trends-api | Unofficial Google Trends API                                                  | FREE  |
  | YouTube Music | https://github.com/sigma67/ytmusicapi                    | Unofficial APi for YouTube Music                                              | FREE  |
+ | Google Maps   | https://apify.com/compass/crawler-google-places          | Unofficial Google Places API                                                  | FREE  |
  | Duolingo      | https://github.com/KartikTalwar/Duolingo                 | Duolingo unofficial API (can gather info about users)                         | FREE  |
  | Steam.        | https://github.com/smiley/steamapi                       | An unofficial object-oriented Python library for accessing the Steam Web API. | FREE  |
  | Instagram     | https://github.com/ping/instagram_private_api            | Instagram Private API                                                         | FREE  |
@@ -449,7 +465,7 @@ Thank you for following me! https://cybdetective.com
  | CVESearch API | https://docs.cvesearch.com/  | Get basic information about CVE| by request |
  | KEVin API | https://kevin.gtfkd.com/ | API for accessing CISA's Known Exploited Vulnerabilities Catalog (KEV) and CVE Data | FREE |
  | Vulners.com API | https://vulners.com | Get basic information about CVE | FREE for personal use |
-
+ | ICHI Internet Cyber Health Index | https://ichi.global/api/alerts | HI provides a free, public API returning aggregated cybersecurity threat intelligence — critical threat alerts drawn from 20+ named, source-transparent public feeds (CISA KEV, CVE/NVD, Shodan, Censys, abuse.ch, US-CERT advisories, SANS ISC, and others). | FREE |
 
 
 
@@ -462,6 +478,7 @@ Thank you for following me! https://cybdetective.com
   | OpenSky Network | https://opensky-network.org/apidoc/index.html | Free real-time ADS-B aviation data                                                 | FREE  |
   | AviationAPI     | https://docs.aviationapi.com/                 | FAA Aeronautical Charts and Publications, Airport Information, and Airport Weather | FREE  |
   | FachaAPI | https://api.facha.dev | Aircraft details and live positioning API | FREE  |
+  | Phantom Tide Restricted-Airspace Feed | https://github.com/tg12/phantomtide?tab=readme-ov-file#public-restricted-airspace-feed | Replay-derived restricted-airspace crossing feed for aircraft observed in public airspace data | FREE  |
  
 ## Webcams
  
