@@ -73,12 +73,13 @@ Thank you for following me! https://cybdetective.com
  | Name      | Link                                  | Description                                              | Price          |
  | --------- | ------------------------------------- | -------------------------------------------------------- | -------------- |
  | Shodan    | https://developer.shodan.io           |  Search engine for Internet connected host and devices | from $59/month |
- | Netlas.io |   https://netlas-api.readthedocs.io/en/latest/            |  Search engine for Internet connected host and devices. Read more at [Netlas CookBook](https://github.com/netlas-io/netlas-cookbook)   |   Partly FREE       |
- | Fofa.so   | https://fofa.so/static_pages/api_help |  Search engine for Internet connected host and devices | ???            |
+ | Netlas.io |   https://docs.netlas.io/automation/            |  Search engine for Internet connected host and devices. Read more at [Netlas CookBook](https://github.com/netlas-io/netlas-cookbook)   |   Partly FREE       |
+ | Fofa.info   | https://en.fofa.info/api |  Search engine for Internet connected host and devices | from $25/month            |
  | Censys.io | https://censys.io/api                 | Search engine for Internet connected host and devices    | Partly FREE           |
  | Hunter.how | https://hunter.how/search-api              |   Search engine for Internet connected host and devices  |  Partly FREE       |
  | Fullhunt.io |  https://api-docs.fullhunt.io/#introduction             | Search engine for Internet connected host and devices   |    Partly FREE     |
  | IPQuery.io | https://ipquery.io | API for ip information such as ip risk, geolocation data, and asn details | FREE |
+ | IPLocate.io | https://iplocate.io | IP address threat data (proxy/vpn/Tor/relay detection API), hosting provider detection, geolocation lookup API (IP to city, country, region, postal code), IP to company and organization. | FREE |
  | Hunt.io | https://hunt.io/products/cyber-threat-enrichment-api | Complete Domain and IP Enrichment  | Free demo |
 
 
@@ -153,6 +154,8 @@ Thank you for following me! https://cybdetective.com
 | Cloudflare Trace | https://github.com/fawazahmed0/cloudflare-trace-api | Get IP Address, Timestamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & More                                                                   | FREE                      |
 | Host.io          | https://host.io/                                    | Get info about domain                                                                                                                                             | FREE                      |
 | Frostbyte DNS    | https://agent-gateway-kappa.vercel.app              | DNS record lookup and resolution — query A, AAAA, MX, TXT, NS, CNAME and other record types for any domain                                                       | 200 credits FREE          |
+| Kiprio Cert      | https://kiprio.com/v1/cert/                         | Inspect SSL/TLS certificates for any domain — expiry date, issuer, SANs, and full chain details                                                                   | FREE                      |
+| DomainIntel      | https://domainintel.onrender.com                   | Real-time domain intelligence: RDAP, DNS-over-HTTPS, Certificate Transparency and bulk lookups                                                                    | FREE / Paid               |
 | cl0q | https://cl0q.com | Open search engine for domain research & OSINT — 38.5M domains scanned, 24.8M pages indexed, free API tier (30 req/min, 1,000/day) | FREE |
 
 
@@ -183,6 +186,7 @@ Thank you for following me! https://cybdetective.com
 | Whois freaks | https://whoisfreaks.com/                | well-parsed and structured domain WHOIS data for all domain names, registrars, countries and TLDs since the birth of internet | $19/5000 requests          |
 | WhoisXMLApi  | https://whois.whoisxmlapi.com           | gathers a variety of domain ownership and registration data points from a comprehensive WHOIS database                        | 500 requests in month/FREE |
 | IPtoWhois    | https://www.ip2whois.com/developers-api | Get detailed info about a domain                                                                                              | 500 requests/month FREE                       |
+| WhoisJsonApi | https://whoisjsonapi.com/               | Provides WHOIS data for all domain names, registrars, countries, and TLDs, covering the entire internet.                      | 2 millions/requests for $50|
  
 ## GEO IP
 
@@ -234,6 +238,8 @@ Thank you for following me! https://cybdetective.com
 | Voila Norbert | https://www.voilanorbert.com/api/ | Find anyone's email address and ensure your emails reach real people                                                                                                              | from $49 in month                                  |
 | Kickbox       | https://open.kickbox.com/         | Email verification API                                                                                                                                                            | FREE                                               |
 | FachaAPI       | https://api.facha.dev/         | Allows checking if an email domain is a temporary email domain                                                                                                                                                            | FREE                                               |
+| Kiprio Disposable Email | https://kiprio.com/v1/disposable-email/ | Check if an email domain is disposable or temporary, no auth required                                                                                                             | FREE                                               |
+| Kiprio Email Validate | https://kiprio.com/v1/email-validate/ | Validate email addresses with MX record checks, disposable domain detection, and typo suggestions                                                                                | FREE                                               |
 | OSINT Industries      | https://www.osint.industries/         | A powerful OSINT (Open-Source Intelligence) platform designed for investigators, analysts, and organizations to uncover digital footprints and gather real-time intelligence. It enables users to search emails, phone numbers, and other selectors to reveal online presence, perform background checks, and conduct digital investigations with unmatched accuracy and immediate insights                                                                                                                                                           | Free for non-profits; pricing for others varies                                               |
 
 
@@ -260,6 +266,7 @@ Thank you for following me! https://cybdetective.com
 | BreachDirectory.com | https://breachdirectory.com/api_documentation                      | search domain in data breaches databases                                                                                            | FREE                               |
 | LeekLookup          | https://leak-lookup.com/api                                  | search domain, email_address, fullname, ip address, phone, password, username in leaks databases                                    | 10 requests FREE                   |
 | BreachDirectory.org | https://rapidapi.com/rohan-patra/api/breachdirectory/pricing | search domain, email_address, fullname, ip address, phone, password, username in leaks databases (possible to view password hashes) | 50 requests in month/FREE          |
+| Hudson Rock | https://cavalier.hudsonrock.com/docs | Search if a domain, email address, or username was compromised in global Infostealer malware campaigns | FREE |
 
 
 
@@ -392,6 +399,7 @@ Thank you for following me! https://cybdetective.com
  | TikTok        | https://github.com/davidteather/TikTok-Api               | The Unofficial TikTok API Wrapper In Python                                   | FREE  |
  | Google Trends | https://github.com/suryasev/unofficial-google-trends-api | Unofficial Google Trends API                                                  | FREE  |
  | YouTube Music | https://github.com/sigma67/ytmusicapi                    | Unofficial APi for YouTube Music                                              | FREE  |
+ | Google Maps   | https://apify.com/compass/crawler-google-places          | Unofficial Google Places API                                                  | FREE  |
  | Duolingo      | https://github.com/KartikTalwar/Duolingo                 | Duolingo unofficial API (can gather info about users)                         | FREE  |
  | Steam.        | https://github.com/smiley/steamapi                       | An unofficial object-oriented Python library for accessing the Steam Web API. | FREE  |
  | Instagram     | https://github.com/ping/instagram_private_api            | Instagram Private API                                                         | FREE  |
@@ -420,6 +428,8 @@ Thank you for following me! https://cybdetective.com
   | Bing Web Search API            | https://www.microsoft.com/en-us/bing/apis/bing-web-search-api | Search in Bing (+instant answers and location)                                | 1000 transactions per month FREE |
   | WolframAlpha API               | https://products.wolframalpha.com/api/pricing/                | Short answers, conversations, calculators and many more                       | from $25 per 1000 queries        |
   | DuckDuckgo Instant Answers API | https://duckduckgo.com/api                                    | An API for some of our Instant Answers, not for full search results.          | FREE                             |
+  | SearchApi                      | https://www.searchapi.io/                                     | Google, Bing, Baidu, and many others search results                           | $40/10000 searches/month         |
+  | Memex Marginalia               | https://memex.marginalia.nu/projects/edge/api.gmi             | An API for new privacy search engine                                          | FREE                             |
   | Scraping Bee Google Search API | https://www.scrapingbee.com/features/google/  |         | from $49/mo  |
   | ZenSerp | https://zenserp.com/  |   Google, Yandex, Bing and YouTube search API      |  50 searches/months free |
   | ScraperAPI | https://www.scraperapi.com/   |  Google Search API       | from $49/mo   |
