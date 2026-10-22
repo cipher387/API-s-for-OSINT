@@ -177,6 +177,7 @@ Thank you for following me! https://cybdetective.com
 | WebScraping.AI | https://webscraping.ai/  | Web Scraping API with built-in proxies and JS rendering                                                                         | FREE  |
 | ZenRows        | https://www.zenrows.com/ | Web Scraping API that bypasses anti-bot solutions while offering JS rendering, and rotating proxies    apiKey    Yes    Unknown | FREE  |
 | Arch Tools    | https://archtools.dev    | 61 AI tools API including web scraping, text extraction, code analysis, NLP, crypto data. REST + MCP protocol. x402 USDC micropayments | FREE tier (100 credits/mo) |
+| CurlShot | https://curlshot.com | Screenshot API: send a URL, HTML or Markdown and get a full-page PNG, JPEG, WebP, PDF or scrolling video, with device presets and optional cookie banner and ad hiding. Also has an MCP server | FREE tier (100 screenshots/mo) |
 
 
 ## Whois
