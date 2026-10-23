@@ -157,6 +157,7 @@ Thank you for following me! https://cybdetective.com
 | Kiprio Cert      | https://kiprio.com/v1/cert/                         | Inspect SSL/TLS certificates for any domain — expiry date, issuer, SANs, and full chain details                                                                   | FREE                      |
 | DomainIntel      | https://domainintel.onrender.com                   | Real-time domain intelligence: RDAP, DNS-over-HTTPS, Certificate Transparency and bulk lookups                                                                    | FREE / Paid               |
 | cl0q | https://cl0q.com | Open search engine for domain research & OSINT — 38.5M domains scanned, 24.8M pages indexed, free API tier (30 req/min, 1,000/day) | FREE |
+| NetAPI | https://netapi.com/help/api/ | Domain lists and datasets per TLD (DNS, IP, hostname, emails, WHOIS dates), daily newly registered and deleted domains, domain and reverse IP lookup, free compromised domains / IPs feeds and a free Top 1M websites list | FREE (feeds, Top 1M, JSON stats) / Paid plans for downloads and lookups |
 
 
 
