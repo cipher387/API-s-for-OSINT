@@ -391,6 +391,7 @@ Thank you for following me! https://cybdetective.com
  | TikTok                         | https://developers.tiktok.com/doc/login-kit-web        | Fetches user info and user's video posts on TikTok platform                                       | FREE  |
  | Tumblr                         | https://www.tumblr.com/docs/en/api/v2                  | Read and write Tumblr Data                                                                        | FREE  |
  [SocialData API](https://socialdata.tools) | Unofficial Twitter API alternative for scraping tweets (by user, by hashtag, by keyword) and user profiles. | $0.20 per 1000 results |
+ | TweetAPI                       | https://tweetapi.com                                   | Twitter data API: search, profiles, followers, lists, communities and Spaces, plus posting and DMs. No X developer account needed | From $5 per 10,000 requests, 100 free |
  
 ## UNOFFICIAL APIs
 > !WARNING Use with caution! Accounts may be blocked permanently for using unofficial APIs.
