@@ -11,11 +11,16 @@
 
  [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
     <p align="center">
-    
- Instruction for total beginners: [OSINT automation: using сustom functions for working with API requests in Google Sheets](https://medium.com/@cyb_detective/osint-automation-using-%D1%81ustom-functions-for-working-with-api-requests-in-google-sheets-3f7130cf5f82) 
-    
 
-Thank you for following me! https://cybdetective.com
+
+![OneQuery OSINT API](https://github.com/cipher387/API-s-for-OSINT/blob/main/one_query_api.png)
+
+
+If you’re looking for the most versatile solution for investigations, try OneQuery API by UserSearch. 18 search types (username, email address, phone number, domain, image and more). Over 100 third-party data sources.
+
+
+[OneQuery OSINT API](https://usersearch.com/product/onequery/)
+
 
 ## Table of contents
 
