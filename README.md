@@ -89,6 +89,7 @@ Thank you for following me! https://cybdetective.com
  | --------- | ------------------------------------- | -------------------------------------------------------- | -------------- |
   | Noimosiny    | https://noimosiny.com/  | Email, phone and username lookup. 250+ modules  | PAID |
  | Social Links    | https://sociallinks.io/products/sl-api   |  Email info lookup, phone info lookup, individual and company profiling, social media tracking, dark web monitoring and more. Code example of using this API for face search in this [repo](https://github.com/SocialLinks-IO/sociallinks-api) | PAID. Price per request |
+ | Opsis | https://useopsis.com/docs/api | Email and username lookup API. Searches 1,000+ modules and returns structured JSON with the profile details each source exposes, with streaming progress | PAID. API access on the Pro plan, prepaid credits from $20 for 50 |
 
 
 
