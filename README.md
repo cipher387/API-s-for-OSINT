@@ -360,6 +360,7 @@ Thank you for following me! https://cybdetective.com
   | ------------ | --------------------------------- | ---------------------------------------------------- | --------------------- |
   | Geospy | https://api.geospy.ai/ | Detecting estimation location of uploaded photo | Access by request |
   | Picarta | https://picarta.ai/api | Detecting estimation location of uploaded photo | 100 request/day FREE |
+  | Oceanir | https://docs.oceanir.ai/ | Estimates photo locations from visual content without GPS metadata | Paid credits; API access reviewed |
 
   
   
