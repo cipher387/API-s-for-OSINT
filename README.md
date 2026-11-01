@@ -89,6 +89,7 @@ Thank you for following me! https://cybdetective.com
  | --------- | ------------------------------------- | -------------------------------------------------------- | -------------- |
   | Noimosiny    | https://noimosiny.com/  | Email, phone and username lookup. 250+ modules  | PAID |
  | Social Links    | https://sociallinks.io/products/sl-api   |  Email info lookup, phone info lookup, individual and company profiling, social media tracking, dark web monitoring and more. Code example of using this API for face search in this [repo](https://github.com/SocialLinks-IO/sociallinks-api) | PAID. Price per request |
+ | Opsis | https://useopsis.com/docs/api | Email and username lookup API. Searches 1,000+ modules and returns structured JSON with the profile details each source exposes, with streaming progress | PAID. API access on the Pro plan, prepaid credits from $20 for 50 |
 
 
 
@@ -178,6 +179,8 @@ Thank you for following me! https://cybdetective.com
 | ZenRows        | https://www.zenrows.com/ | Web Scraping API that bypasses anti-bot solutions while offering JS rendering, and rotating proxies    apiKey    Yes    Unknown | FREE  |
 | Arch Tools    | https://archtools.dev    | 61 AI tools API including web scraping, text extraction, code analysis, NLP, crypto data. REST + MCP protocol. x402 USDC micropayments | FREE tier (100 credits/mo) |
 | TidyTools URL to Markdown | https://tools.yukai.uk/free/url-to-markdown | Any public web page or PDF as clean Markdown or JSON with one GET request, no API key, rate limited (about 10 requests per minute) | FREE |
+| CurlShot | https://curlshot.com | Screenshot API: send a URL, HTML or Markdown and get a full-page PNG, JPEG, WebP, PDF or scrolling video, with device presets and optional cookie banner and ad hiding. Also has an MCP server | FREE tier (100 screenshots/mo) |
+
 
 
 ## Whois
@@ -227,6 +230,7 @@ Thank you for following me! https://cybdetective.com
   | Swiftcodesapi      | https://swiftcodesapi.com                                                            | Verifying the validity of a bank SWIFT code or IBAN account number | $39 per month/4000 swift lookups |
   | IBANAPI      | https://ibanapi.com                                                            | Validate IBAN number and get bank account information from it | Freemium/10$ Starter plan |
   | Eulerpool          | https://eulerpool.com/developers                                                     | Company profiles, executives, insider trades, ownership, market data | Freemium/100k requests per month free |
+  | SiftingIO | https://sifting.io/docs | Real-time and historical US stock, forex, commodity and crypto data over REST and WebSocket | Freemium; API key required; 10,000 REST calls/month per market on Free |
 
 
 ## Email
@@ -267,7 +271,9 @@ Thank you for following me! https://cybdetective.com
 | BreachDirectory.com | https://breachdirectory.com/api_documentation                      | search domain in data breaches databases                                                                                            | FREE                               |
 | LeekLookup          | https://leak-lookup.com/api                                  | search domain, email_address, fullname, ip address, phone, password, username in leaks databases                                    | 10 requests FREE                   |
 | BreachDirectory.org | https://rapidapi.com/rohan-patra/api/breachdirectory/pricing | search domain, email_address, fullname, ip address, phone, password, username in leaks databases (possible to view password hashes) | 50 requests in month/FREE          |
+| Breach House | https://breach.house/docs | Search ransomware leaks, stealer logs, traditional breaches and leads by company, domain or email | Paid |
 | Hudson Rock | https://cavalier.hudsonrock.com/docs | Search if a domain, email address, or username was compromised in global Infostealer malware campaigns | FREE |
+| Have I Been Ransomed? | https://haveibeenransom.com/howapi | Check if your email, phone or company has been leaked by ransomware gangs, stealers or traditional breaches | Paid |
 
 
 
@@ -360,6 +366,7 @@ Thank you for following me! https://cybdetective.com
   | ------------ | --------------------------------- | ---------------------------------------------------- | --------------------- |
   | Geospy | https://api.geospy.ai/ | Detecting estimation location of uploaded photo | Access by request |
   | Picarta | https://picarta.ai/api | Detecting estimation location of uploaded photo | 100 request/day FREE |
+  | Oceanir | https://docs.oceanir.ai/ | Estimates photo locations from visual content without GPS metadata | Paid credits; API access reviewed |
 
   
   
@@ -604,3 +611,4 @@ Contributions are always welcome! Please read the [contribution guidelines](CONT
 ![cc license](https://i.creativecommons.org/l/zero/1.0/88x31.png)
 
 This work is licensed under a [CC0 1.0 Universal](LICENSE.md) license.
+
