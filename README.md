@@ -228,6 +228,7 @@ Thank you for following me! https://cybdetective.com
   | Swiftcodesapi      | https://swiftcodesapi.com                                                            | Verifying the validity of a bank SWIFT code or IBAN account number | $39 per month/4000 swift lookups |
   | IBANAPI      | https://ibanapi.com                                                            | Validate IBAN number and get bank account information from it | Freemium/10$ Starter plan |
   | Eulerpool          | https://eulerpool.com/developers                                                     | Company profiles, executives, insider trades, ownership, market data | Freemium/100k requests per month free |
+  | SiftingIO | https://sifting.io/docs | Real-time and historical US stock, forex, commodity and crypto data over REST and WebSocket | Freemium; API key required; 10,000 REST calls/month per market on Free |
 
 
 ## Email
@@ -606,3 +607,4 @@ Contributions are always welcome! Please read the [contribution guidelines](CONT
 ![cc license](https://i.creativecommons.org/l/zero/1.0/88x31.png)
 
 This work is licensed under a [CC0 1.0 Universal](LICENSE.md) license.
+
