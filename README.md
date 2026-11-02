@@ -89,7 +89,7 @@ If you’re looking for the most versatile solution for investigations, try OneQ
 
 | Name      | Link                                  | Description                                              | Price          |
  | --------- | ------------------------------------- | -------------------------------------------------------- | -------------- |
-  | Noimosiny    | https://noimosiny.com/  | Email, phone and username lookup. 250+ modules  | PAID |
+ | Noimosiny    | https://noimosiny.com/  | Email, phone and username lookup. 250+ modules  | PAID |
  | Social Links    | https://sociallinks.io/products/sl-api   |  Email info lookup, phone info lookup, individual and company profiling, social media tracking, dark web monitoring and more. Code example of using this API for face search in this [repo](https://github.com/SocialLinks-IO/sociallinks-api) | PAID. Price per request |
  | Opsis | https://useopsis.com/docs/api | Email and username lookup API. Searches 1,000+ modules and returns structured JSON with the profile details each source exposes, with streaming progress | PAID. API access on the Pro plan, prepaid credits from $20 for 50 |
 
@@ -131,8 +131,7 @@ If you’re looking for the most versatile solution for investigations, try OneQ
  | Approuve.com | https://appruve.co                                | Allows you to verify the identities of individuals, businesses, and connect to financial account data across Africa                                                                                                                  | Paid  |
  | Onfido.com   | https://onfido.com                                | Onfido Document Verification lets your users scan a photo ID from any device, before checking it's genuine. Combined with Biometric Verification, it's a seamless way to anchor an account to the real identity of a customer. India | Paid  |
  | Superpass.io | https://surepass.io/passport-id-verification-api/ | Passport, Photo ID and Driver License Verification in India                                                                                                                                                                          | Paid  |
-
-
+ | National ID & Tax ID Validator API | https://rapidapi.com/soxoj/api/national-id-tax-id-validator | 222 ID types from 108 countries and territories. Get date of birth, gender, place of birth, taxpayer type and even the person’s initials  | 500 requests free |
 
 ## Business/Entity search
 
