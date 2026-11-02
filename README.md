@@ -402,6 +402,7 @@ If you’re looking for the most versatile solution for investigations, try OneQ
  | Tumblr                         | https://www.tumblr.com/docs/en/api/v2                  | Read and write Tumblr Data                                                                        | FREE  |
  [SocialData API](https://socialdata.tools) | Unofficial Twitter API alternative for scraping tweets (by user, by hashtag, by keyword) and user profiles. | $0.20 per 1000 results |
  | TweetAPI                       | https://tweetapi.com                                   | Twitter data API: search, profiles, followers, lists, communities and Spaces, plus posting and DMs. No X developer account needed | From $5 per 10,000 requests, 100 free |
+ | LurkAPI                        | https://lurkapi.com                                    | Public posts, profiles, comments, ads and video transcripts from 16 social platforms as JSON, plus an MCP server | From $9 per 10,000 credits, 100 free |
  
 ## UNOFFICIAL APIs
 > !WARNING Use with caution! Accounts may be blocked permanently for using unofficial APIs.
