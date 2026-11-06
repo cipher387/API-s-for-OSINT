@@ -431,6 +431,7 @@ If you’re looking for the most versatile solution for investigations, try OneQ
  | Linkedin      | https://github.com/tomquirk/linkedin-api                 | Unofficial Linkedin API for Python                                            | FREE  |
  | Y2mate        | https://github.com/Simatwa/y2mate-api                    | Unofficial Y2mate API for Python                                              | FREE  |
  | Livescore     | https://github.com/Simatwa/livescore-api                 | Unofficial Livescore API for Python                                           | FREE  |
+ | Linkedin Profile | https://alphaosint.com/sources/linkedin-profile-api/ | Unofficial LinkedIn profile API: experience, education, skills and location as JSON from a public profile URL | Paid |
  
 ## Search Engines
  
