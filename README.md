@@ -234,6 +234,7 @@ If you’re looking for the most versatile solution for investigations, try OneQ
   | IBANAPI      | https://ibanapi.com                                                            | Validate IBAN number and get bank account information from it | Freemium/10$ Starter plan |
   | Eulerpool          | https://eulerpool.com/developers                                                     | Company profiles, executives, insider trades, ownership, market data | Freemium/100k requests per month free |
   | SiftingIO | https://sifting.io/docs | Real-time and historical US stock, forex, commodity and crypto data over REST and WebSocket | Freemium; API key required; 10,000 REST calls/month per market on Free |
+  | CommodityPriceAPI | https://commoditypriceapi.com/ | Latest, intraday and historical prices (back to 1990) for 520+ commodities (metals, energy, agriculture) in 150+ currencies | PAID (free trial, no card) |
 
 
 ## Email
