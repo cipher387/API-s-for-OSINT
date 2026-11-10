@@ -190,7 +190,7 @@ If you’re looking for the most versatile solution for investigations, try OneQ
 
 | Name         | Link                                    | Description                                                                                                                   | Price                      |
 | ------------ | --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
-| Whois freaks | https://whoisfreaks.com/                | well-parsed and structured domain WHOIS data for all domain names, registrars, countries and TLDs since the birth of internet | $19/5000 requests          |
+| Whois freaks | https://whoisfreaks.com/                | Live, historical and reverse WHOIS (by owner, company, email or keyword) for 7,800+ TLDs and 4.6B+ WHOIS records, plus DNS history, subdomains, SSL and IP reputation APIs | 500 credits FREE on signup / Paid |
 | WhoisXMLApi  | https://whois.whoisxmlapi.com           | gathers a variety of domain ownership and registration data points from a comprehensive WHOIS database                        | 500 requests in month/FREE |
 | IPtoWhois    | https://www.ip2whois.com/developers-api | Get detailed info about a domain                                                                                              | 500 requests/month FREE                       |
 | WhoisJsonApi | https://whoisjsonapi.com/               | Provides WHOIS data for all domain names, registrars, countries, and TLDs, covering the entire internet.                      | 2 millions/requests for $50|
