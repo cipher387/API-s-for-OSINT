@@ -141,6 +141,8 @@ If you’re looking for the most versatile solution for investigations, try OneQ
  | Linkedin company search API | https://docs.microsoft.com/en-us/linkedin/marketing/integrations/community-management/organizations/company-search?context=linkedin%2Fcompliance%2Fcontext&tabs=http | Find companies using keywords, industry, location, and other criteria | FREE                                  |
  | Mattermark                  | https://rapidapi.com/raygorodskij/api/Mattermark/                                                                                                                    | Get companies and investor information                                | free 14-day trial, from $49 per month |
  | W System EU Business Data | https://wsystem.dev/eu-company-registry-api | EU company lookup in official national registers (FR SIRENE, NO, FI, CZ, PL KRS, EE) with GLEIF LEI fallback, plus EU VAT (VIES), EORI and sanctions screening (EU, UN, OFAC SDN, UK). REST and remote MCP server | 20 requests/day FREE without key, then $0.01 per lookup (x402) or from EUR 19/month |
+ | Datacircle                  | https://api.datacircle.dev/v1                                                                                                                                        | Find the best GTM APIs. Search every API and plan, with scores from real calls | FREE, no key                          |
+
 
 
 
@@ -250,6 +252,7 @@ If you’re looking for the most versatile solution for investigations, try OneQ
 | Kiprio Disposable Email | https://kiprio.com/v1/disposable-email/ | Check if an email domain is disposable or temporary, no auth required                                                                                                             | FREE                                               |
 | Kiprio Email Validate | https://kiprio.com/v1/email-validate/ | Validate email addresses with MX record checks, disposable domain detection, and typo suggestions                                                                                | FREE                                               |
 | OSINT Industries      | https://www.osint.industries/         | A powerful OSINT (Open-Source Intelligence) platform designed for investigators, analysts, and organizations to uncover digital footprints and gather real-time intelligence. It enables users to search emails, phone numbers, and other selectors to reveal online presence, perform background checks, and conduct digital investigations with unmatched accuracy and immediate insights                                                                                                                                                           | Free for non-profits; pricing for others varies                                               |
+| looot | https://looot.ai | Pay-per-call API and MCP server for work email and phone lookup, email verification, and company and people enrichment | PAID. Prepaid balance from $5, failed calls cost $0, no free tier |
 
 
 
@@ -382,7 +385,7 @@ If you’re looking for the most versatile solution for investigations, try OneQ
  | ------------------------------ | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------- | ----- |
  | Twitch                         | https://dev.twitch.tv/docs/v5/reference                |                                                                                                   |       |
  | YouTube Data API               | https://developers.google.com/youtube/v3               |                                                                                                   |       |
- | Arcmira | https://arcmira.com/docs | Search indexed YouTube and podcast transcripts for quoted speech and return timestamped source links. | Free tier and paid plans |
+ | Arcmira | https://arcmira.com/docs | YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers. | Free tier and paid plans |
  | Reddit                         | https://www.reddit.com/dev/api/                        |                                                                                                   |       |
  | Vkontakte                      | https://vk.com/dev/methods                             |                                                                                                   |       |
  | Twitter API                    | https://developer.twitter.com/en                       |                                                                                                   |       |
@@ -451,6 +454,7 @@ If you’re looking for the most versatile solution for investigations, try OneQ
   | Scraping Bee Google Search API | https://www.scrapingbee.com/features/google/  |         | from $49/mo  |
   | ZenSerp | https://zenserp.com/  |   Google, Yandex, Bing and YouTube search API      |  50 searches/months free |
   | ScraperAPI | https://www.scraperapi.com/   |  Google Search API       | from $49/mo   |
+  | Google Search Results — FlashData | https://flashdata.dev/docs/sources/google_search | Query Google and retrieve structured web results, links and available SERP fields as JSON for source discovery and research. Requires an account and X-API-Key; does not fetch arbitrary page full text. | Paid Credits |
   | [SearchApi](https://www.searchapi.io/) | SearchApi - real-time JSON API to access 50+ SERP engines like Google, Bing, Baidu, YouTube, Amazon, and more. | 100 requests FREE |
 
   
