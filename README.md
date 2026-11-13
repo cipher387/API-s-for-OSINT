@@ -140,6 +140,7 @@ If you’re looking for the most versatile solution for investigations, try OneQ
  | Open corporates             | https://api.opencorporates.com                                                                                                                                       | Companies information                                                 | Paid, price upon request              |
  | Linkedin company search API | https://docs.microsoft.com/en-us/linkedin/marketing/integrations/community-management/organizations/company-search?context=linkedin%2Fcompliance%2Fcontext&tabs=http | Find companies using keywords, industry, location, and other criteria | FREE                                  |
  | Mattermark                  | https://rapidapi.com/raygorodskij/api/Mattermark/                                                                                                                    | Get companies and investor information                                | free 14-day trial, from $49 per month |
+ | Datacircle                  | https://api.datacircle.dev/v1                                                                                                                                        | Find the best GTM APIs. Search every API and plan, with scores from real calls | FREE, no key                          |
 
 
 
