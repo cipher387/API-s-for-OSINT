@@ -140,6 +140,7 @@ If you’re looking for the most versatile solution for investigations, try OneQ
  | Open corporates             | https://api.opencorporates.com                                                                                                                                       | Companies information                                                 | Paid, price upon request              |
  | Linkedin company search API | https://docs.microsoft.com/en-us/linkedin/marketing/integrations/community-management/organizations/company-search?context=linkedin%2Fcompliance%2Fcontext&tabs=http | Find companies using keywords, industry, location, and other criteria | FREE                                  |
  | Mattermark                  | https://rapidapi.com/raygorodskij/api/Mattermark/                                                                                                                    | Get companies and investor information                                | free 14-day trial, from $49 per month |
+ | Datacircle                  | https://api.datacircle.dev/v1                                                                                                                                        | Find the best GTM APIs. Search every API and plan, with scores from real calls | FREE, no key                          |
 
 
 
@@ -184,6 +185,8 @@ If you’re looking for the most versatile solution for investigations, try OneQ
 | TidyTools URL to Markdown | https://tools.yukai.uk/free/url-to-markdown | Any public web page or PDF as clean Markdown or JSON with one GET request, no API key, rate limited (about 10 requests per minute) | FREE |
 | CurlShot | https://curlshot.com | Screenshot API: send a URL, HTML or Markdown and get a full-page PNG, JPEG, WebP, PDF or scrolling video, with device presets and optional cookie banner and ad hiding. Also has an MCP server | FREE tier (100 screenshots/mo) |
 | Scrape.ly | https://scrape.ly | Web scraping API with ready-made scrapers for Google Maps, Amazon, LinkedIn, TikTok and more, run in the cloud with proxies and JS rendering. REST API, SDKs and MCP server | FREE tier ($5 usage/month) |
+| Firecrawl | https://www.firecrawl.dev/?utm_source=api-s-for-osint&utm_medium=integration | Web search, scraping and crawling API that returns pages as Markdown or structured JSON, with JavaScript rendering, PDF parsing and a hosted MCP server | FREE tier (1,000 credits/mo), paid plans from $19/mo |
+
 
 
 
@@ -250,6 +253,7 @@ If you’re looking for the most versatile solution for investigations, try OneQ
 | Kiprio Disposable Email | https://kiprio.com/v1/disposable-email/ | Check if an email domain is disposable or temporary, no auth required                                                                                                             | FREE                                               |
 | Kiprio Email Validate | https://kiprio.com/v1/email-validate/ | Validate email addresses with MX record checks, disposable domain detection, and typo suggestions                                                                                | FREE                                               |
 | OSINT Industries      | https://www.osint.industries/         | A powerful OSINT (Open-Source Intelligence) platform designed for investigators, analysts, and organizations to uncover digital footprints and gather real-time intelligence. It enables users to search emails, phone numbers, and other selectors to reveal online presence, perform background checks, and conduct digital investigations with unmatched accuracy and immediate insights                                                                                                                                                           | Free for non-profits; pricing for others varies                                               |
+| looot | https://looot.ai | Pay-per-call API and MCP server for work email and phone lookup, email verification, and company and people enrichment | PAID. Prepaid balance from $5, failed calls cost $0, no free tier |
 
 
 
@@ -382,7 +386,7 @@ If you’re looking for the most versatile solution for investigations, try OneQ
  | ------------------------------ | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------- | ----- |
  | Twitch                         | https://dev.twitch.tv/docs/v5/reference                |                                                                                                   |       |
  | YouTube Data API               | https://developers.google.com/youtube/v3               |                                                                                                   |       |
- | Arcmira | https://arcmira.com/docs | Search indexed YouTube and podcast transcripts for quoted speech and return timestamped source links. | Free tier and paid plans |
+ | Arcmira | https://arcmira.com/docs | YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers. | Free tier and paid plans |
  | Reddit                         | https://www.reddit.com/dev/api/                        |                                                                                                   |       |
  | Vkontakte                      | https://vk.com/dev/methods                             |                                                                                                   |       |
  | Twitter API                    | https://developer.twitter.com/en                       |                                                                                                   |       |
@@ -451,6 +455,7 @@ If you’re looking for the most versatile solution for investigations, try OneQ
   | Scraping Bee Google Search API | https://www.scrapingbee.com/features/google/  |         | from $49/mo  |
   | ZenSerp | https://zenserp.com/  |   Google, Yandex, Bing and YouTube search API      |  50 searches/months free |
   | ScraperAPI | https://www.scraperapi.com/   |  Google Search API       | from $49/mo   |
+  | Google Search Results — FlashData | https://flashdata.dev/docs/sources/google_search | Query Google and retrieve structured web results, links and available SERP fields as JSON for source discovery and research. Requires an account and X-API-Key; does not fetch arbitrary page full text. | Paid Credits |
   | [SearchApi](https://www.searchapi.io/) | SearchApi - real-time JSON API to access 50+ SERP engines like Google, Bing, Baidu, YouTube, Amazon, and more. | 100 requests FREE |
 
   
