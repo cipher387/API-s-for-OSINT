@@ -452,6 +452,7 @@ If you’re looking for the most versatile solution for investigations, try OneQ
   | Scraping Bee Google Search API | https://www.scrapingbee.com/features/google/  |         | from $49/mo  |
   | ZenSerp | https://zenserp.com/  |   Google, Yandex, Bing and YouTube search API      |  50 searches/months free |
   | ScraperAPI | https://www.scraperapi.com/   |  Google Search API       | from $49/mo   |
+  | Google Search Results — FlashData | https://flashdata.dev/docs/sources/google_search | Query Google and retrieve structured web results, links and available SERP fields as JSON for source discovery and research. Requires an account and X-API-Key; does not fetch arbitrary page full text. | Paid Credits |
   | [SearchApi](https://www.searchapi.io/) | SearchApi - real-time JSON API to access 50+ SERP engines like Google, Bing, Baidu, YouTube, Amazon, and more. | 100 requests FREE |
 
   
