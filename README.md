@@ -383,7 +383,7 @@ If you’re looking for the most versatile solution for investigations, try OneQ
  | ------------------------------ | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------- | ----- |
  | Twitch                         | https://dev.twitch.tv/docs/v5/reference                |                                                                                                   |       |
  | YouTube Data API               | https://developers.google.com/youtube/v3               |                                                                                                   |       |
- | Arcmira | https://arcmira.com/docs | Search indexed YouTube and podcast transcripts for quoted speech and return timestamped source links. | Free tier and paid plans |
+ | Arcmira | https://arcmira.com/docs | YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers. | Free tier and paid plans |
  | Reddit                         | https://www.reddit.com/dev/api/                        |                                                                                                   |       |
  | Vkontakte                      | https://vk.com/dev/methods                             |                                                                                                   |       |
  | Twitter API                    | https://developer.twitter.com/en                       |                                                                                                   |       |
