@@ -184,7 +184,9 @@ If you’re looking for the most versatile solution for investigations, try OneQ
 | Arch Tools    | https://archtools.dev    | 61 AI tools API including web scraping, text extraction, code analysis, NLP, crypto data. REST + MCP protocol. x402 USDC micropayments | FREE tier (100 credits/mo) |
 | TidyTools URL to Markdown | https://tools.yukai.uk/free/url-to-markdown | Any public web page or PDF as clean Markdown or JSON with one GET request, no API key, rate limited (about 10 requests per minute) | FREE |
 | CurlShot | https://curlshot.com | Screenshot API: send a URL, HTML or Markdown and get a full-page PNG, JPEG, WebP, PDF or scrolling video, with device presets and optional cookie banner and ad hiding. Also has an MCP server | FREE tier (100 screenshots/mo) |
+| Scrape.ly | https://scrape.ly | Web scraping API with ready-made scrapers for Google Maps, Amazon, LinkedIn, TikTok and more, run in the cloud with proxies and JS rendering. REST API, SDKs and MCP server | FREE tier ($5 usage/month) |
 | Firecrawl | https://www.firecrawl.dev/?utm_source=api-s-for-osint&utm_medium=integration | Web search, scraping and crawling API that returns pages as Markdown or structured JSON, with JavaScript rendering, PDF parsing and a hosted MCP server | FREE tier (1,000 credits/mo), paid plans from $19/mo |
+
 
 
 
