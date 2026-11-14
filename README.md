@@ -386,6 +386,7 @@ If you’re looking for the most versatile solution for investigations, try OneQ
  
  | Name                           | Link                                                   | Description                                                                                       | Price |
  | ------------------------------ | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------- | ----- |
+ | HiCreators                        | https://hicreator.ai/api-docs               |       API for collecting info about X(Twitter), YouTube, Instagram and TikTok influencers.                | from $59 / month |                                                                                     |       |
  | Twitch                         | https://dev.twitch.tv/docs/v5/reference                |                                                                                                   |       |
  | YouTube Data API               | https://developers.google.com/youtube/v3               |                                                                                                   |       |
  | Arcmira | https://arcmira.com/docs | YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers. | Free tier and paid plans |
