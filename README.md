@@ -467,6 +467,7 @@ If you’re looking for the most versatile solution for investigations, try OneQ
   | Name       | Link                    | Description                          | Price                   |
   | ---------- | ----------------------- | ------------------------------------ | ----------------------- |
   | MediaStack | https://mediastack.com/ | News articles search results in JSON | 500 requests/month FREE |
+  | 链小知区块链 (Lianxiaozhi) | https://lianxiaozhi.com/agent | Chinese crypto news metadata and attributed summaries; rolling seven-day news/search window | FREE, no API key |
   
 ## Darknet
 
