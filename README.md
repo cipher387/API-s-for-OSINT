@@ -285,6 +285,7 @@ If you’re looking for the most versatile solution for investigations, try OneQ
 | BreachDirectory.org | https://rapidapi.com/rohan-patra/api/breachdirectory/pricing | search domain, email_address, fullname, ip address, phone, password, username in leaks databases (possible to view password hashes) | 50 requests in month/FREE          |
 | Breach House | https://breach.house/docs | Search ransomware leaks, stealer logs, traditional breaches and leads by company, domain or email | Paid |
 | Hudson Rock | https://cavalier.hudsonrock.com/docs | Search if a domain, email address, or username was compromised in global Infostealer malware campaigns | FREE |
+| Lunar Domain Exposure API | https://docs.webz.io/docs/webz/domain-exposure-api | Aggregated domain exposure from infostealer logs and data breaches over the previous 12 months, including exposure counts, timelines, malware families and affected services | FREE; no API key required |
 | Have I Been Ransomed? | https://haveibeenransom.com/howapi | Check if your email, phone or company has been leaked by ransomware gangs, stealers or traditional breaches | Paid |
 
 
