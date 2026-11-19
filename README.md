@@ -213,6 +213,7 @@ If you’re looking for the most versatile solution for investigations, try OneQ
 | IP API           | https://ip-api.com/      | Free domain/IP geolocation info                                                                                                                                                                                               | FREE                           |
 | Frostbyte API | https://agent-gateway-kappa.vercel.app | IP geolocation with country, city, region, ISP, coordinates, and timezone. Part of a unified API gateway with 40+ OSINT-friendly tools including DNS lookup, web scraping, and screenshots. | 200 credits FREE |
 | InternetData | https://internetdata.io | Geolocation, ASN, company and domain data for any IP address, AS or domain, by API or as databases you download. City-level location on paid plans | FREE (no key) / Paid |
+| Network Data Labs | https://www.networkdatalabs.com | IP geolocation with accuracy radius, ASN and known VPN/Tor flags | FREEMIUM |
 
 
 ## Wi-fi lookup
