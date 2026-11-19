@@ -189,6 +189,7 @@ If you’re looking for the most versatile solution for investigations, try OneQ
 | CurlShot | https://curlshot.com | Screenshot API: send a URL, HTML or Markdown and get a full-page PNG, JPEG, WebP, PDF or scrolling video, with device presets and optional cookie banner and ad hiding. Also has an MCP server | FREE tier (100 screenshots/mo) |
 | Scrape.ly | https://scrape.ly | Web scraping API with ready-made scrapers for Google Maps, Amazon, LinkedIn, TikTok and more, run in the cloud with proxies and JS rendering. REST API, SDKs and MCP server | FREE tier ($5 usage/month) |
 | Firecrawl | https://www.firecrawl.dev/?utm_source=api-s-for-osint&utm_medium=integration | Web search, scraping and crawling API that returns pages as Markdown or structured JSON, with JavaScript rendering, PDF parsing and a hosted MCP server | FREE tier (1,000 credits/mo), paid plans from $19/mo |
+| SpecStream | https://api.specstream.ai | Web search and page extraction API with support for Tavily, Exa, Brave, Serper and SearXNG endpoints, with a remote MCP server | FREE tier (various options) |
 
 
 
