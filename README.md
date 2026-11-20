@@ -421,6 +421,7 @@ If you’re looking for the most versatile solution for investigations, try OneQ
  | xdataapi.io                    | https://xdataapi.io                                    | Read-only public X (Twitter) data: profiles, tweets, threads, followers and search with x.com operators. MCP server and SDKs | $0.06 to $0.125 per 1,000 items, 5,000 free credits |
  | GetYouTubeTranscript | https://getyoutubetranscript.com/docs | REST API for YouTube transcripts with timestamps, plus search, channel and playlist browsing | Free tier (100 credits), paid from $5/mo |
 | Social Fetch | https://www.socialfetch.dev/docs | Public profiles, posts, comments, transcripts and search from TikTok, Instagram, YouTube, X, Reddit, LinkedIn and more, as JSON, plus an MCP server | 100 free credits, paid from $14
+| Adspy | https://www.adspy.sh | Hosted MCP server for Claude, Claude Code and Codex to research brands' public Meta and Google ads and their organic TikTok, YouTube and Instagram posts. REST API on Enterprise only | Free plan, paid from $19 / month |
  
 ## UNOFFICIAL APIs
 > !WARNING Use with caution! Accounts may be blocked permanently for using unofficial APIs.
