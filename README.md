@@ -165,6 +165,7 @@ If you’re looking for the most versatile solution for investigations, try OneQ
 | NetAPI | https://netapi.com/help/api/ | Domain lists and datasets per TLD (DNS, IP, hostname, emails, WHOIS dates), daily newly registered and deleted domains, domain and reverse IP lookup, free compromised domains / IPs feeds and a free Top 1M websites list | FREE (feeds, Top 1M, JSON stats) / Paid plans for downloads and lookups |
 | Profundis | https://docs.profundis.io/api/api-usage/ | Search indexed DNS records and discover subdomains through an API. | PAID (subscription or credit pack) |
 | VPNDetection | https://vpndetection.io/api | VPN, Tor and relay detection for any IP address, with its country and ASN. Paid plans add proxy and hosting flags and the evidence behind each | FREE (no key, no cap) / Paid |
+| BrandShield | https://brand-checker.appwrite.network | Query 78-TLD RDAP registration status, aftermarket parking nameservers, and preliminary USPTO trademark conflicts via JSON API | FREE (no key) |
 
 
 
