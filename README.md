@@ -289,6 +289,7 @@ If you’re looking for the most versatile solution for investigations, try OneQ
 | Hudson Rock | https://cavalier.hudsonrock.com/docs | Search if a domain, email address, or username was compromised in global Infostealer malware campaigns | FREE |
 | Lunar Domain Exposure API | https://docs.webz.io/docs/webz/domain-exposure-api | Aggregated domain exposure from infostealer logs and data breaches over the previous 12 months, including exposure counts, timelines, malware families and affected services | FREE; no API key required |
 | Have I Been Ransomed? | https://haveibeenransom.com/howapi | Check if your email, phone or company has been leaked by ransomware gangs, stealers or traditional breaches | Paid |
+| CheckLeaked | https://checkleaked.cc/developers | search email, username, phone, domain, password or hash in breach databases; keyless k-anonymity password range and email breach-preview endpoints | Free tier, paid plans |
 
 
 
