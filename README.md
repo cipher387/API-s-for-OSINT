@@ -423,6 +423,7 @@ If you’re looking for the most versatile solution for investigations, try OneQ
 | Social Fetch | https://www.socialfetch.dev/docs | Public profiles, posts, comments, transcripts and search from TikTok, Instagram, YouTube, X, Reddit, LinkedIn and more, as JSON, plus an MCP server | 100 free credits, paid from $14
 | Adspy | https://www.adspy.sh | Hosted MCP server for Claude, Claude Code and Codex to research brands' public Meta and Google ads and their organic TikTok, YouTube and Instagram posts. REST API on Enterprise only | Free plan, paid from $19 / month |
 | DataXAPI | https://dataxapi.com/docs/ | Public posts, comments, accounts, search results and hot lists from Douyin, Xiaohongshu (RedNote), WeChat Official Accounts and Channels, Weibo, Bilibili, Zhihu, Kuaishou, TikTok, X, YouTube, Instagram and Reddit, plus Meta and Google ad libraries, as JSON; REST and a hosted MCP server. Failed calls are free | Pay per call from $0.0003, up to 333 calls FREE |
+| Groundsocial | https://groundsocial.dev/docs | Public posts, comments, profiles, transcripts and search from Reddit, X, TikTok, Instagram, YouTube, LinkedIn and 70+ more platforms as JSON, over REST or a hosted MCP server | 100 free credits, then from $10 per 10,000 credits |
  
 ## UNOFFICIAL APIs
 > !WARNING Use with caution! Accounts may be blocked permanently for using unofficial APIs.
